@@ -1,13 +1,11 @@
-#define _CRT_SECURE_NO_WARNINGS
 #include <iostream>
 #include <cstdio>
 #include <vector>
-#include <stack>
 #include <algorithm>
 
 using namespace std;
 
-//ªÛ,«œ,¡¬,øÏ
+//ÏÉÅ,Ìïò,Ï¢å,Ïö∞
 int dx[4] = {0,0,-1,1};
 int dy[4] = {-1,1,0,0};
 
@@ -18,8 +16,6 @@ int maxCnt = -1;
 int K;
 int cutINF;
 
-stack <pair<int, int>> stk;
-
 void findPath(int y, int x, int N) {
 
 	visit[y][x] = 1;
@@ -27,49 +23,42 @@ void findPath(int y, int x, int N) {
 		int ty = dy[i] + y;
 		int tx = dx[i] + x;
 
-		// ªÛ,«œ,¡¬,øÏ ¡ﬂ ∞• ºˆ ¿÷¥¬ case
+		// ÏÉÅ,Ìïò,Ï¢å,Ïö∞ Ï§ë Í∞à Ïàò ÏûàÎäî case
 		if (ty >= 0 && ty < N && tx >= 0 && tx < N) {
 
 			if (visit[ty][tx] == 0 && arr[y][x] > arr[ty][tx])
 			{
-				visit[ty][tx] = 1;
-				cnt += 1;
+				visit[ty][tx] = 1; cnt += 1;
 				findPath(ty, tx, N);
 
-				if (maxCnt <= cnt) {
+				if (maxCnt <= cnt) 
 					maxCnt = cnt;
-				}
+				
 				cnt -= 1;
 				visit[ty][tx] = 0;
 			}
 
-			else
-			{
+			else{
 				for (int mk = 1; mk <= K; mk++) {
-
-					if (visit[ty][tx] == 0 &&
-						arr[y][x] > (arr[ty][tx]) - mk && cutINF == 0) {
-
-						cutINF = 1;
-						visit[ty][tx] = 1;
-						cnt += 1;
+					if (visit[ty][tx] == 0 && arr[y][x] > (arr[ty][tx]) - mk && cutINF == 0) {
+						
+						cutINF = 1; visit[ty][tx] = 1; cnt += 1;
 						arr[ty][tx] = arr[ty][tx] - mk;
 						findPath(ty, tx, N);
 
-						if (maxCnt <= cnt) {
+						if (maxCnt <= cnt) 
 							maxCnt = cnt;
-						}
-						cnt -= 1;
-						cutINF = 0;
+
+						cnt -= 1; cutINF = 0;
 						arr[ty][tx] = arr[ty][tx] + mk;
 						visit[ty][tx] = 0;
 					}
-				}
-			}
-		}
-
-	}
-}
+				}//end inner for
+			}//end inner else
+			
+		}//end outer if
+	} //end outer for
+}//end function
 
 int main() {
 
@@ -85,7 +74,7 @@ int main() {
 
 		scanf("%d %d", &N, &K);
 
-		// N * N input ¿‘∑¬πﬁ±‚
+		// N * N input ÏûÖÎ†•Î∞õÍ∏∞
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				scanf("%d", &input);
@@ -96,7 +85,7 @@ int main() {
 			}
 		}
 
-		// maxValue∏¶ ∞°¡ˆ¥¬ ¿ßƒ° ¿˙¿Â
+		// maxValueÎ•º Í∞ÄÏßÄÎäî ÏúÑÏπò Ï†ÄÏû•
 		for (int i = 0; i < N; i++) {
 			for (int j = 0; j < N; j++) {
 				if (arr[i][j] == maxValue)
@@ -104,7 +93,7 @@ int main() {
 			}
 		}
 
-		// Ω√¿€
+		// ÏãúÏûë
 		for (int i = 0; i < maxElements.size(); i++) {
 			findPath(maxElements[i].first, maxElements[i].second, N);
 
@@ -114,7 +103,6 @@ int main() {
 				}
 			}
 			cnt = 0;
-			cutINF = 0;
 		}
 
 		printf("#%d %d", t, maxCnt);

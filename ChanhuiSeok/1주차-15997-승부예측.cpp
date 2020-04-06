@@ -7,7 +7,7 @@
 
 using namespace std;
 vector <pair<string, double>> v;
-vector <double> result(4); // ³ªÁß¿¡ ÃÖÁ¾ È®·ü Ãâ·Â°ª
+vector <double> result(4); // ë‚˜ì¤‘ì— ìµœì¢… í™•ë¥  ì¶œë ¥ê°’
 
 string t1, t2, t3, t4;
 int reName(string str) {
@@ -38,6 +38,7 @@ typedef struct cases {
 
 Case cases[6];
 
+// 
 bool compare(const pair<string,double> &a, const pair<string, double>& b) {
     return a.second > b.second;
 }
@@ -48,13 +49,13 @@ void dfs(int n) {
         return;
 
     if (n == 6) {
-        vector <pair<string, double>> rank; // °¢ ÄÉÀÌ½ºº° ·©Å©°ª ÀúÀå
+        vector <pair<string, double>> rank; // ê° ì¼€ì´ìŠ¤ë³„ ë­í¬ê°’ ì €ì¥
         for (int i = 0; i < 4; i++) {
             rank.push_back({ v[i].first, v[i].second });
         }
         sort(rank.begin(), rank.end(), compare);
 
-        // ¸ğµç ÆÀÀÇ Á¡¼ö°¡ °°À» ¶§
+        // ëª¨ë“  íŒ€ì˜ ì ìˆ˜ê°€ ê°™ì„ ë•Œ
         if (rank[0].second == rank[1].second && rank[1].second == rank[2].second &&
             rank[2].second == rank[3].second) {
             result[reName(rank[0].first)] += 0.5 * percentage;
@@ -63,7 +64,7 @@ void dfs(int n) {
             result[reName(rank[3].first)] += 0.5 * percentage;
         }
 
-        // »óÀ§ 1ÆÀÀº ¸íÈ®ÇÏ°í, Áß°£ 2, 3µîÀÇ µî¼ö°¡ °°°í, 4µîµµ ¸íÈ®ÇÒ ¶§
+        // ìƒìœ„ 1íŒ€ì€ ëª…í™•í•˜ê³ , ì¤‘ê°„ 2, 3ë“±ì˜ ë“±ìˆ˜ê°€ ê°™ê³ , 4ë“±ë„ ëª…í™•í•  ë•Œ
         else if (rank[0].second > rank[1].second &&
             rank[1].second == rank[2].second && rank[2].second > rank[3].second) {
             result[reName(rank[0].first)] += percentage;
@@ -71,7 +72,7 @@ void dfs(int n) {
             result[reName(rank[2].first)] += 0.5 * percentage;
         }
 
-        // »óÀ§ 1ÆÀÀº ¸íÈ®ÇÏ°í, 2,3,4 µîÀÇ Á¡¼ö°¡ °°À» ¶§
+        // ìƒìœ„ 1íŒ€ì€ ëª…í™•í•˜ê³ , 2,3,4 ë“±ì˜ ì ìˆ˜ê°€ ê°™ì„ ë•Œ
         else if (rank[0].second > rank[1].second &&
             rank[1].second == rank[2].second && rank[2].second == rank[3].second) {
             result[reName(rank[0].first)] += percentage;
@@ -80,7 +81,7 @@ void dfs(int n) {
             result[reName(rank[3].first)] += percentage * 1.0 / 3.0;
         }
 
-        // »óÀ§ 1,2,3 µîÀÌ Á¡¼ö°¡ °°°í, 4µîÀº ¸íÈ®ÇÒ ¶§
+        // ìƒìœ„ 1,2,3 ë“±ì´ ì ìˆ˜ê°€ ê°™ê³ , 4ë“±ì€ ëª…í™•í•  ë•Œ
         else if (rank[0].second == rank[1].second && rank[1].second == rank[2].second
             && rank[2].second > rank[3].second) {
             result[reName(rank[0].first)] += percentage * 2.0 / 3.0;
@@ -88,7 +89,7 @@ void dfs(int n) {
             result[reName(rank[2].first)] += percentage * 2.0 / 3.0;
         }
 
-        // »óÀ§ 1, 2ÆÀÀÌ ¸íÈ®ÇÏ°Ô ±¸ºĞµÉ ¶§
+        // ìƒìœ„ 1, 2íŒ€ì´ ëª…í™•í•˜ê²Œ êµ¬ë¶„ë  ë•Œ
         else if (rank[0].second > rank[1].second && rank[1].second > rank[2].second
             || (rank[0].second == rank[1].second && rank[1].second > rank[2].second)) {
             result[reName(rank[0].first)] += percentage;
@@ -100,14 +101,14 @@ void dfs(int n) {
 
 
     for (int i = 0; i < 4; i++) {
-        if (cases[n].A == v[i].first) { // cases n¹øÂ° ÁÙÀÇ A°¡ ¹İº¹¹® i¿¡¼­ÀÇ ÆÀ¸í°ú °°À» ¶§           
+        if (cases[n].A == v[i].first) { // cases në²ˆì§¸ ì¤„ì˜ Aê°€ ë°˜ë³µë¬¸ iì—ì„œì˜ íŒ€ëª…ê³¼ ê°™ì„ ë•Œ           
             for (int j = 0; j < 4; j++) {
-                if (cases[n].B == v[j].first) { // cases n¹øÂ° ÁÙÀÇ B°¡ ¹İº¹¹® j¿¡¼­ÀÇ ÆÀ¸í°ú °°À» ¶§
+                if (cases[n].B == v[j].first) { // cases në²ˆì§¸ ì¤„ì˜ Bê°€ ë°˜ë³µë¬¸ jì—ì„œì˜ íŒ€ëª…ê³¼ ê°™ì„ ë•Œ
                  
                     for (int c = 0; c < 3; c++) {
                         double tempPercent = percentage;
 
-                        // case 0. A°¡ ÀÌ±æ ¶§
+                        // case 0. Aê°€ ì´ê¸¸ ë•Œ
                         if (c == 0) {
                             v[i].second += 3;
                             percentage = percentage * cases[n].W;
@@ -115,7 +116,7 @@ void dfs(int n) {
                             v[i].second -= 3;
                         }
 
-                        // case 1. A¿Í B°¡ ºñ±æ ¶§
+                        // case 1. Aì™€ Bê°€ ë¹„ê¸¸ ë•Œ
                         else if (c == 1) {
                             v[i].second += 1;
                             v[j].second += 1;
@@ -125,7 +126,7 @@ void dfs(int n) {
                             v[j].second -= 1;
                         }
 
-                        // case 2. A°¡ Áú ¶§ (Áï, B°¡ ÀÌ±æ ¶§)
+                        // case 2. Aê°€ ì§ˆ ë•Œ (ì¦‰, Bê°€ ì´ê¸¸ ë•Œ)
                         else if (c == 2) {
                             v[j].second += 3;
                             percentage = percentage * cases[n].L;
@@ -158,24 +159,24 @@ int main()
     t3 = v[2].first;
     t4 = v[3].first;
 
-    // ¾Æ·¡ 6ÁÙ¿¡ ´ëÇÏ¿© ¸ğµç °æ¿ìÀÇ ¼ö¸¦ ÆÄ¾ÇÇÑ´Ù.
-    // Áï, ÇÑ ÁÙ´ç ÀÌ°åÀ» ¶§ , ºñ°åÀ» ¶§, Á³À» ¶§ÀÇ 3°¡Áö °æ¿ì°¡ ³ª¿À°í,
-    // 3*3*3*3*3*3 = 3^6 °¡ÁöÀÇ °æ¿ìÀÇ ¼ö¸¦ ¸ğµÎ º»´Ù´Â ÀÇ¹Ì°¡ µÈ´Ù!!
+    // ì•„ë˜ 6ì¤„ì— ëŒ€í•˜ì—¬ ëª¨ë“  ê²½ìš°ì˜ ìˆ˜ë¥¼ íŒŒì•…í•œë‹¤.
+    // ì¦‰, í•œ ì¤„ë‹¹ ì´ê²¼ì„ ë•Œ , ë¹„ê²¼ì„ ë•Œ, ì¡Œì„ ë•Œì˜ 3ê°€ì§€ ê²½ìš°ê°€ ë‚˜ì˜¤ê³ ,
+    // 3*3*3*3*3*3 = 3^6 ê°€ì§€ì˜ ê²½ìš°ì˜ ìˆ˜ë¥¼ ëª¨ë‘ ë³¸ë‹¤ëŠ” ì˜ë¯¸ê°€ ëœë‹¤!!
     // KOREA CCC 0.3 0.4 0.3
     // AAA BBB 0.428 0.144 0.428
     // AAA KOREA 0.0 0.0 1.0
     // CCC BBB 0.0 0.0 1.0
     // KOREA BBB 1.0 0.0 0.0
     // CCC AAA 0.0 0.0 1.0
-    // ÀÌ¾ú´Ù¸é,
-    // (1¹øÂ° ÁÙ) KOREA°¡ CCC¸¦ ÀÌ°åÀ» ¶§ (È®·ü 0.3)
-    // (2) AAA°¡ ÀÌ°åÀ» ¶§ -> (3) AAA°¡ ÀÌ°åÀ» ¶§ -> (4) CCC°¡ ÀÌ°åÀ» ¶§ -> (5) KOREA°¡ ÀÌ°åÀ» ¶§
-    // -> (6) CCC°¡ ÀÌ°åÀ» ¶§ -> (5) Korea°¡ ÀÌ°åÀ» ¶§·Î ¹éÆ®·¡Å· -> (6) CCC¿Í AAA°¡ ºñ°åÀ» ¶§
-    // -> (5) Korea°¡ ÀÌ°åÀ» ¶§·Î ¹éÆ®·¡Å· -> (6) CCC°¡ AAA¿¡°Ô Á³À» ¶§
-    // -> (5) Korea¿Í BBB°¡ ºñ°åÀ» ¶§ -> (6) CCC°¡ ÀÌ°åÀ» ¶§ -> .... ¹İº¹ ÇÏ¸é 3^6 °¡Áö °æ¿ìÀÇ ¼ö¸¦
-    // ¸ğµÎ º¼ ¼ö ÀÖ´Ù. ÀÌ ¶§, È®·ü °öÀ» ÀúÀåÇØ µÎ¸é¼­ dfs·Î ÆÇ´ÜÇØ ÁØ´Ù.
-    // 6ÁÙÀ» ¸ğµÎ ´Ù º¸¾ÒÀ» ½Ã, ½ÂÁ¡ÀÌ ¸Å°ÜÁú °ÍÀÌ°í, ÀÌ¸¦ Åä´ë·Î ·©Å©¸¦ ¸¸µé¾î ÁØ´Ù.
-    // ·©Å© À¯Çüº°·Î È®·ü °öÀ» ÀúÀåÇØ µÎ¸é¼­ °ªÀ» result¿¡ ÀúÀåÇØ ÁØ´Ù.
+    // ì´ì—ˆë‹¤ë©´,
+    // (1ë²ˆì§¸ ì¤„) KOREAê°€ CCCë¥¼ ì´ê²¼ì„ ë•Œ (í™•ë¥  0.3)
+    // (2) AAAê°€ ì´ê²¼ì„ ë•Œ -> (3) AAAê°€ ì´ê²¼ì„ ë•Œ -> (4) CCCê°€ ì´ê²¼ì„ ë•Œ -> (5) KOREAê°€ ì´ê²¼ì„ ë•Œ
+    // -> (6) CCCê°€ ì´ê²¼ì„ ë•Œ -> (5) Koreaê°€ ì´ê²¼ì„ ë•Œë¡œ ë°±íŠ¸ë˜í‚¹ -> (6) CCCì™€ AAAê°€ ë¹„ê²¼ì„ ë•Œ
+    // -> (5) Koreaê°€ ì´ê²¼ì„ ë•Œë¡œ ë°±íŠ¸ë˜í‚¹ -> (6) CCCê°€ AAAì—ê²Œ ì¡Œì„ ë•Œ
+    // -> (5) Koreaì™€ BBBê°€ ë¹„ê²¼ì„ ë•Œ -> (6) CCCê°€ ì´ê²¼ì„ ë•Œ -> .... ë°˜ë³µ í•˜ë©´ 3^6 ê°€ì§€ ê²½ìš°ì˜ ìˆ˜ë¥¼
+    // ëª¨ë‘ ë³¼ ìˆ˜ ìˆë‹¤. ì´ ë•Œ, í™•ë¥  ê³±ì„ ì €ì¥í•´ ë‘ë©´ì„œ dfsë¡œ íŒë‹¨í•´ ì¤€ë‹¤.
+    // 6ì¤„ì„ ëª¨ë‘ ë‹¤ ë³´ì•˜ì„ ì‹œ, ìŠ¹ì ì´ ë§¤ê²¨ì§ˆ ê²ƒì´ê³ , ì´ë¥¼ í† ëŒ€ë¡œ ë­í¬ë¥¼ ë§Œë“¤ì–´ ì¤€ë‹¤.
+    // ë­í¬ ìœ í˜•ë³„ë¡œ í™•ë¥  ê³±ì„ ì €ì¥í•´ ë‘ë©´ì„œ ê°’ì„ resultì— ì €ì¥í•´ ì¤€ë‹¤.
 
 
     for (int i = 0; i < 6; i++) {

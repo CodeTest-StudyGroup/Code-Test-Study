@@ -38,7 +38,7 @@ typedef struct cases {
 
 Case cases[6];
 
-// 
+// desc order 
 bool compare(const pair<string,double> &a, const pair<string, double>& b) {
     return a.second > b.second;
 }

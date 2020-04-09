@@ -39,7 +39,7 @@
 | 문제 번호 |         제목         |                             URL                              | 풀이(O,X) |
 | :-------: | :------------------: | :----------------------------------------------------------: | :-------: |
 |   1949    |     등산로 조성      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq) |     O     |
-|   1953    |     탈주범 검거      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PoOKKAPIDFAUq) |     -     |
+|   1953    |     탈주범 검거      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) |     -     |
 |   2105    |     디저트 카페      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu) |     -     |
 |   2112    |      보호 필름       | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu) |     -     |
 |   2117    |    홈 방범 서비스    | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu) |     -     |

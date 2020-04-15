@@ -53,9 +53,9 @@
 | 가장 큰 수 | https://programmers.co.kr/learn/courses/30/lessons/42746 |     O     |
 |    카펫    | https://programmers.co.kr/learn/courses/30/lessons/42842 |     O     |
 |  조이스틱  | https://programmers.co.kr/learn/courses/30/lessons/42860 |     O     |
-|            |                                                          |           |
-|            |                                                          |           |
-|            |                                                          |           |
+|  숫자야구  | https://programmers.co.kr/learn/courses/30/lessons/42841  |     O     |
+|  타겟 넘버  | https://programmers.co.kr/learn/courses/30/lessons/43165  |    O     |
+| N으로   | https://programmers.co.kr/learn/courses/30/lessons/42895 |     O     |
 |            |                                                          |           |
 |            |                                                          |           |
 |            |                                                          |           |

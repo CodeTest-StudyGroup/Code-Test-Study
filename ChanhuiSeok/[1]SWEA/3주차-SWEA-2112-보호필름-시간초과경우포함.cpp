@@ -3,21 +3,18 @@
 #include <cstdio>
 #include <vector>
 #include <algorithm>
-#include <map>
 
 using namespace std;
 int D, W, K;
 int arr[14][21];
 int copies[14][21];
 
-//vector< vector<int>> arr(14);
-//vector< vector<int>> copies(14);
 vector < vector<int> > permuList;
 vector <int> permu;
 
 void solve(int subResult, int array[][21], vector<int>& cont) {
-	for (int n = 0; n < W; n++) { // ¿­
-		for (int m = 0; m < D - (K - 1); m++) { // Çà - (K-1)¸¸Å­
+	for (int n = 0; n < W; n++) { // ì—´
+		for (int m = 0; m < D - (K - 1); m++) { // í–‰ - (K-1)ë§Œí¼
 			subResult = 0;
 			for (int p = 0; p < K - 1; p++) {
 
@@ -39,7 +36,7 @@ void solve(int subResult, int array[][21], vector<int>& cont) {
 }
 
 void make_permutation(int n, int cnt) {
-	// nÀº ÀÚ¸´¼ö¸¦ ÀÇ¹ÌÇÔ. Áï, 0°ú 1 °¡Áö°í nÀÚ¸® Áßº¹¼ø¿­À» ¸¸µé¾î µĞ´Ù.
+	// nì€ ìë¦¿ìˆ˜ë¥¼ ì˜ë¯¸í•¨. ì¦‰, 0ê³¼ 1 ê°€ì§€ê³  nìë¦¬ ì¤‘ë³µìˆœì—´ì„ ë§Œë“¤ì–´ ë‘”ë‹¤.
 
 	if (cnt == n) {
 		//permu[idx].push_back();
@@ -65,7 +62,7 @@ int main() {
 
 	for (int t = 1; t <= T; t++) {
 
-		// D´Â º¸È£ÇÊ¸§ µÎ²²(ÇàÀÇ °¹¼ö), W´Â °¡·ÎÅ©±â(¿­ÀÇ °¹¼ö), K´Â ÇÕ°İ±âÁØ(¿¬¼ÓµÈ µ¿ÀÏ ¼ıÀÚ °¹¼ö)
+		// DëŠ” ë³´í˜¸í•„ë¦„ ë‘ê»˜(í–‰ì˜ ê°¯ìˆ˜), WëŠ” ê°€ë¡œí¬ê¸°(ì—´ì˜ ê°¯ìˆ˜), KëŠ” í•©ê²©ê¸°ì¤€(ì—°ì†ëœ ë™ì¼ ìˆ«ì ê°¯ìˆ˜)
 		scanf("%d %d %d", &D, &W, &K);
 
 		for (int i = 0; i < D; i++) {
@@ -79,19 +76,19 @@ int main() {
 
 		if (find(cont.begin(), cont.end(), 0) == cont.end()) {
 			printf("#%d 0\n", t);
-			continue; // ´ÙÀ½ Å×½ºÆ® ÄÉÀÌ½º·Î ÀÌµ¿
+			continue; // ë‹¤ìŒ í…ŒìŠ¤íŠ¸ ì¼€ì´ìŠ¤ë¡œ ì´ë™
 		}
 
 		else {
-			// Á¶ÇÕ ÇÔ¼ö ¹× ¾àÇ° Ã³¸® ÄÚµå ½ÃÀÛ
+			// ì¡°í•© í•¨ìˆ˜ ë° ì•½í’ˆ ì²˜ë¦¬ ì½”ë“œ ì‹œì‘
 			vector<int> n;
 			vector<int> ind;
 			cont.clear();
 			passFlag = 0;
 
-			for (int i = 0; i < D; i++) 
+			for (int i = 0; i < D; i++)
 				n.push_back(i);
-			
+
 			for (indK = 1; indK <= K; indK++) {
 				ind.clear();
 				passFlag = 0;
@@ -102,73 +99,47 @@ int main() {
 					ind.push_back(0);
 				sort(ind.begin(), ind.end());
 
-				// 0 ¶Ç´Â 1À» °¡Áö°í Áßº¹¼ø¿­À» ¸¸µé¾î ³õ´Â´Ù.
+				// 0 ë˜ëŠ” 1ì„ ê°€ì§€ê³  ì¤‘ë³µìˆœì—´ì„ ë§Œë“¤ì–´ ë†“ëŠ”ë‹¤.
 
 				permuList.clear();
 				make_permutation(indK, 0);
 
-					do {
-						for (int p = 0; p < permuList.size(); p++) {
+				do {
+					for (int p = 0; p < permuList.size(); p++) {
 
-							int q = 0;
-							// ÇöÀç ¹Ù²Ü Çàµé¿¡ ´ëÇÏ¿©
-							for (int k = 0; k < ind.size(); k++) {
-								if (ind[k] == 1) {
-									// k¹øÂ° ÇàÀÇ °ªµéÀ» permuListÀÇ °ªÀ¸·Î º¯°æ	
-									for (int m = 0; m < W; m++) {
-										copies[k][m] = permuList[p][q];
-									}
-									q += 1;
+						int q = 0;
+						// í˜„ì¬ ë°”ê¿€ í–‰ë“¤ì— ëŒ€í•˜ì—¬
+						for (int k = 0; k < ind.size(); k++) {
+							if (ind[k] == 1) {
+								// kë²ˆì§¸ í–‰ì˜ ê°’ë“¤ì„ permuListì˜ ê°’ìœ¼ë¡œ ë³€ê²½	
+								for (int m = 0; m < W; m++) {
+									copies[k][m] = permuList[p][q];
 								}
+								q += 1;
 							}
-
-							solve(0, copies, cont);
-
-							if (find(cont.begin(), cont.end(), 0) == cont.end()) {
-								printf("#%d %d\n", t, indK);
-								passFlag = 1;
-								break;
-							}
-
-							else {
-								// º¹±Í
-								//copy(arr.begin(), arr.end(), copies.begin());
-								for (int i = 0; i < D; i++) {
-									for (int j = 0; j < W; j++) {
-										copies[i][j] = arr[i][j];
-									}
-								}
-
-								cont.clear();
-								continue;
-							}
-
-							/*
-							// ¼±ÅÃÇÏ´Â ÇàÀÇ °¹¼ö¸¸Å­ÀÇ Á¶ÇÕ
-							for (int k = 0; k < ind.size(); k++) {
-								if (ind[k] == 1) {
-									// k¹øÂ° ÇàÀÇ °ªµéÀ» ¸ğµÎ j°ªÀ¸·Î ¹Ù²Û´Ù.
-									for (int m = 0; m < W; m++)
-										copies[k][m] = j;
-								}
-							}
-
-							solve(0, copies, cont);
-
-							if (find(cont.begin(), cont.end(), 0) == cont.end()) {
-								printf("#%d %d\n", t, indK);
-								passFlag = 1;
-								break;
-							}
-
-							else {
-								// º¹±Í
-								copy(arr.begin(), arr.end(), copies.begin());
-								cont.clear();
-								continue;
-							}*/
-							//}
 						}
+
+						solve(0, copies, cont);
+
+						if (find(cont.begin(), cont.end(), 0) == cont.end()) {
+							printf("#%d %d\n", t, indK);
+							passFlag = 1;
+							break;
+						}
+
+						else {
+							// ë³µê·€
+							//copy(arr.begin(), arr.end(), copies.begin());
+							for (int i = 0; i < D; i++) {
+								for (int j = 0; j < W; j++) {
+									copies[i][j] = arr[i][j];
+								}
+							}
+
+							cont.clear();
+							continue;
+						}
+					}
 
 
 					if (passFlag) {

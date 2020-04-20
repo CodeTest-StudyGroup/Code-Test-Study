@@ -24,7 +24,7 @@
 
 ------
 
-* **SW Expert Academy 모의 SW 역량테스트**
+* **SW Expert Academy 모의 SW 역량테스트 (매주 월요일) **
 
 | 문제 번호 |         제목         |                             URL                              | 풀이(O,X) |
 | :-------: | :------------------: | :----------------------------------------------------------: | :-------: |
@@ -32,8 +32,8 @@
 |   1953    |     탈주범 검거      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5PpLlKAQ4DFAUq) |     O     |
 |   2105    |     디저트 카페      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5VwAr6APYDFAWu) |     O     |
 |   2112    |      보호 필름       | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu) |     O     |
-|   2117    |    홈 방범 서비스    | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu) |     -     |
-|   2382    |     미생물 격리      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl) |     -     |
+|   2117    |    홈 방범 서비스    | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu) |     O     |
+|   2382    |     미생물 격리      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl) |     O     |
 |   2383    |    점심 식사시간     | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl) |     -     |
 |   4013    |     특이한 자석      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH) |     -     |
 |   4014    |     활주로 건설      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH) |     -     |
@@ -46,7 +46,7 @@
 
 ------
 
-* **프로그래머스**
+* **프로그래머스 (임의 3문제, 매주 수요일) **
 
 |    제목    |                           URL                            | 풀이(O,X) |
 | :--------: | :------------------------------------------------------: | :-------: |

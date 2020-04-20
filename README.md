@@ -64,6 +64,10 @@
 |            |                                                          |           |
 |            |                                                          |           |
 
+------
+
+
+
 * **5. 2019 카카오 개발자 겨울 인턴십(매주 금요일)**
 
 |         문제         | 레벨 |                           URL                            | 풀이(O, X) |
@@ -73,6 +77,10 @@
 |     불량 사용자      |  3   | https://programmers.co.kr/learn/courses/30/lessons/64064 |     X      |
 |     호텔 방 배정     |  3   | https://programmers.co.kr/learn/courses/30/lessons/64063 |     X      |
 |   징검다리 건너기    |  4   | https://programmers.co.kr/learn/courses/30/lessons/64062 |     X      |
+
+------
+
+
 
 * **6. 2020 KAKAO BLIND RECRUITMENT**
 

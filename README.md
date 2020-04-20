@@ -6,7 +6,7 @@
 
 **[문제 목록]**
 
-* **카카오 코드 페스티벌 2018 예선**
+* **1. 카카오 코드 페스티벌 2018 예선**
 
 | 문제 번호 |   제목    |               URL                | 풀이(O,X) |
 | :-------: | :-------: | :------------------------------: | :-------: |
@@ -15,7 +15,7 @@
 
 ------
 
-* **카카오 코드 페스티벌 2018**
+* **2. 카카오 코드 페스티벌 2018**
 
 | 문제 번호 |         제목         |               URL                | 풀이(O,X) |
 | :-------: | :------------------: | :------------------------------: | :-------: |
@@ -24,7 +24,7 @@
 
 ------
 
-* **SW Expert Academy 모의 SW 역량테스트 (매주 월요일)**
+* **3. SW Expert Academy 모의 SW 역량테스트 (매주 월요일 2문제)**
 
 | 문제 번호 |         제목         |                             URL                              | 풀이(O,X) |
 | :-------: | :------------------: | :----------------------------------------------------------: | :-------: |
@@ -46,7 +46,7 @@
 
 ------
 
-* **프로그래머스 (임의 3문제, 매주 수요일)**
+* **4. 프로그래머스 (매주 수요일 임의 3문제)**
 
 |    제목    |                           URL                            | 풀이(O,X) |
 | :--------: | :------------------------------------------------------: | :-------: |
@@ -63,4 +63,26 @@
 |            |                                                          |           |
 |            |                                                          |           |
 |            |                                                          |           |
+
+* **5. 2019 카카오 개발자 겨울 인턴십(매주 금요일)**
+
+|         문제         | 레벨 |                           URL                            | 풀이(O, X) |
+| :------------------: | :--: | :------------------------------------------------------: | :--------: |
+| 크레인 인형뽑기 게임 |  1   | https://programmers.co.kr/learn/courses/30/lessons/64061 |     X      |
+|         튜플         |  2   | https://programmers.co.kr/learn/courses/30/lessons/64065 |     X      |
+|     불량 사용자      |  3   | https://programmers.co.kr/learn/courses/30/lessons/64064 |     X      |
+|     호텔 방 배정     |  3   | https://programmers.co.kr/learn/courses/30/lessons/64063 |     X      |
+|   징검다리 건너기    |  4   | https://programmers.co.kr/learn/courses/30/lessons/64062 |     X      |
+
+* **6. 2020 KAKAO BLIND RECRUITMENT**
+
+|      문제      | 레벨 |                                                          | 풀이(O, X) |
+| :------------: | :--: | :------------------------------------------------------: | :--------: |
+|  문자열 압축   |  2   | https://programmers.co.kr/learn/courses/30/lessons/60057 |     X      |
+|   괄호 변환    |  2   | https://programmers.co.kr/learn/courses/30/lessons/60058 |     X      |
+| 자물쇠와 열쇠  |  3   | https://programmers.co.kr/learn/courses/30/lessons/60059 |     X      |
+| 기둥과 보 설치 |  3   | https://programmers.co.kr/learn/courses/30/lessons/60061 |     X      |
+|   외벽 점검    |  3   | https://programmers.co.kr/learn/courses/30/lessons/60062 |     X      |
+| 블록 이동하기  |  3   | https://programmers.co.kr/learn/courses/30/lessons/60063 |     X      |
+|   가사 검색    |  4   | https://programmers.co.kr/learn/courses/30/lessons/60060 |     X      |
 

@@ -34,8 +34,8 @@
 |   2112    |      보호 필름       | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V1SYKAaUDFAWu) |     O     |
 |   2117    |    홈 방범 서비스    | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5V61LqAf8DFAWu) |     O     |
 |   2382    |     미생물 격리      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV597vbqAH0DFAVl) |     O     |
-|   2383    |    점심 식사시간     | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl) |     -     |
-|   4013    |     특이한 자석      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH) |     -     |
+|   2383    |    점심 식사시간     | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AV5-BEE6AK0DFAVl) |     O     |
+|   4013    |     특이한 자석      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeV9sKkcoDFAVH) |     O     |
 |   4014    |     활주로 건설      | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWIeW7FakkUDFAVH) |     -     |
 |   5644    |      무선 충전       | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo) |     -     |
 |   5648    | 원자 소멸 시뮬레이션 | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo) |     -     |

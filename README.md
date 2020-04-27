@@ -56,9 +56,9 @@
 |  숫자야구  | https://programmers.co.kr/learn/courses/30/lessons/42841  |     O     |
 |  타겟 넘버  | https://programmers.co.kr/learn/courses/30/lessons/43165  |    O     |
 |  N으로 표현 | https://programmers.co.kr/learn/courses/30/lessons/42895 |     O     |
-| 타일 장식물 | https://programmers.co.kr/learn/courses/30/lessons/43104  |    -     |
-| 전화번호 목록 | https://programmers.co.kr/learn/courses/30/lessons/42577 |    -     |
-|  네트워크  |https://programmers.co.kr/learn/courses/30/lessons/43162 |       -    |
+| 타일 장식물 | https://programmers.co.kr/learn/courses/30/lessons/43104  |    O     |
+| 전화번호 목록 | https://programmers.co.kr/learn/courses/30/lessons/42577 |    O     |
+|  네트워크  |https://programmers.co.kr/learn/courses/30/lessons/43162 |       O    |
 |            |                                                          |           |
 |            |                                                          |           |
 |            |                                                          |           |
@@ -72,11 +72,11 @@
 
 |         문제         | 레벨 |                           URL                            | 풀이(O, X) |
 | :------------------: | :--: | :------------------------------------------------------: | :--------: |
-| 크레인 인형뽑기 게임 |  1   | https://programmers.co.kr/learn/courses/30/lessons/64061 |     X      |
-|         튜플         |  2   | https://programmers.co.kr/learn/courses/30/lessons/64065 |     X      |
-|     불량 사용자      |  3   | https://programmers.co.kr/learn/courses/30/lessons/64064 |     X      |
-|     호텔 방 배정     |  3   | https://programmers.co.kr/learn/courses/30/lessons/64063 |     X      |
-|   징검다리 건너기    |  4   | https://programmers.co.kr/learn/courses/30/lessons/64062 |     X      |
+| 크레인 인형뽑기 게임 |  1   | https://programmers.co.kr/learn/courses/30/lessons/64061 |     O     |
+|         튜플         |  2   | https://programmers.co.kr/learn/courses/30/lessons/64065 |     O      |
+|     불량 사용자      |  3   | https://programmers.co.kr/learn/courses/30/lessons/64064 |     O      |
+|     호텔 방 배정     |  3   | https://programmers.co.kr/learn/courses/30/lessons/64063 |     O      |
+|   징검다리 건너기    |  4   | https://programmers.co.kr/learn/courses/30/lessons/64062 |     O     |
 
 ------
 

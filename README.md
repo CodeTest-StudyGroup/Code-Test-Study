@@ -59,10 +59,9 @@
 | 타일 장식물 | https://programmers.co.kr/learn/courses/30/lessons/43104  |    O     |
 | 전화번호 목록 | https://programmers.co.kr/learn/courses/30/lessons/42577 |    O     |
 |  네트워크  |https://programmers.co.kr/learn/courses/30/lessons/43162 |       O    |
-|            |                                                          |           |
-|            |                                                          |           |
-|            |                                                          |           |
-|            |                                                          |           |
+|    위장    | https://programmers.co.kr/learn/courses/30/lessons/42578 |          |
+|  단어변환  | https://programmers.co.kr/learn/courses/30/lessons/42841  |          |
+|    탑    | https://programmers.co.kr/learn/courses/30/lessons/42588 |          |
 
 ------
 

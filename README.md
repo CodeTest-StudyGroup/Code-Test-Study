@@ -85,8 +85,8 @@
 
 |      문제      | 레벨 |                                                          | 풀이(O, X) |
 | :------------: | :--: | :------------------------------------------------------: | :--------: |
-|  문자열 압축   |  2   | https://programmers.co.kr/learn/courses/30/lessons/60057 |     X      |
-|   괄호 변환    |  2   | https://programmers.co.kr/learn/courses/30/lessons/60058 |     X      |
+|  문자열 압축   |  2   | https://programmers.co.kr/learn/courses/30/lessons/60057 |     O      |
+|   괄호 변환    |  2   | https://programmers.co.kr/learn/courses/30/lessons/60058 |     O      |
 | 자물쇠와 열쇠  |  3   | https://programmers.co.kr/learn/courses/30/lessons/60059 |     X      |
 | 기둥과 보 설치 |  3   | https://programmers.co.kr/learn/courses/30/lessons/60061 |     X      |
 |   외벽 점검    |  3   | https://programmers.co.kr/learn/courses/30/lessons/60062 |     X      |

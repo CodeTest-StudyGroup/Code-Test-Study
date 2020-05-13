@@ -13,11 +13,7 @@ int solution(vector<int> budgets, int M) {
 
     sort(budgets.begin(), budgets.end()); // 오름차순 정렬
 
-    int average = M / sizes;
-    // 상한은 average로 보장이 되어 있다.
-    // valid(x)가 x<=ANSWER 일 때는 true 고, x>ANSWER일 때 false이다.
-
-    // average보다는 크지만 가장 작은 원소를 찾는다...
+    // 0 + budgents[맨끝] / 2 한 값부터가 이분탐색의 mid 시작
     int left = 0, right = budgets[budgets.size() - 1];
     int answer = 0;
 

@@ -86,7 +86,7 @@
 
 * **6. 2020 KAKAO BLIND RECRUITMENT**
 
-|      문제      | 레벨 |                                                          | 풀이(O, X) |
+|      문제      | 레벨 |                         URL                                 | 풀이(O, X) |
 | :------------: | :--: | :------------------------------------------------------: | :--------: |
 |  문자열 압축   |  2   | https://programmers.co.kr/learn/courses/30/lessons/60057 |     O      |
 |   괄호 변환    |  2   | https://programmers.co.kr/learn/courses/30/lessons/60058 |     O      |

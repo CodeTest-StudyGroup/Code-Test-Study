@@ -11,20 +11,6 @@
 using namespace std;
 int sizes, M;
 
-bool valid(int x, vector<int> budgets) {
-    int sum = 0;
-    for (int i = 0; i < budgets.size(); i++) {
-        if (budgets[i] <= x)
-            sum += budgets[i];
-        else
-            sum += x;
-    }
-    if (sum <= M)
-        return true;
-    else
-        return false;
-}
-
 int main() {
     
     long long answer = 0;

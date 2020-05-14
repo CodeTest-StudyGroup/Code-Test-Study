@@ -62,6 +62,9 @@
 |    위장    | https://programmers.co.kr/learn/courses/30/lessons/42578 |     O     |
 |  단어변환  | https://programmers.co.kr/learn/courses/30/lessons/43163  |     O     |
 |    탑    | https://programmers.co.kr/learn/courses/30/lessons/42588 |     O     |
+| H-Index | https://programmers.co.kr/learn/courses/30/lessons/42747 | X |
+| 입국 심사 | https://programmers.co.kr/learn/courses/30/lessons/43238 | X |
+| 예산 | https://programmers.co.kr/learn/courses/30/lessons/43237 | X |
 
 ------
 

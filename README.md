@@ -1,4 +1,4 @@
-![](https://i.imgur.com/dFC5Bbt.png)
+<h1 align="center"> ![](https://i.imgur.com/dFC5Bbt.png) </h1>
 
 ------
 

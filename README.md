@@ -145,4 +145,13 @@
 |   가사 검색    |  4   | https://programmers.co.kr/learn/courses/30/lessons/60060 |     X      |
 
 ------
-
+### 👨‍👧 채용 공고
+> [2020 네이버 신입 개발자 공개 채용 (~09/18 18:00)](https://www.naver-recruit2020.com/)
+>
+> [2020 KT 대졸 인턴 채용 (~09/20 16:00)](https://recruit.kt.com/apply/notifyView?seq=35575)
+>
+> [대구은행 신입행원 채용 (~09/22 18:00)](https://dgb.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=35666)
+>
+> [2020년 하반기 우리은행 신입행원 채용 (~09:23 18:00)](https://wooribank.incruit.com/hire/viewhire.asp?projectid=104)
+>
+> [LG CNS 하반기 신입채용 (~9.29 18:00)](http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=12401)

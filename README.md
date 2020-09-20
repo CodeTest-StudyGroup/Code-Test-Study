@@ -158,7 +158,7 @@
 >
 > [2020 KT 대졸 인턴 채용 (~09/20 16:00)](https://recruit.kt.com/apply/notifyView?seq=35575)
 >
-> [대구은행 신입행원 채용 (~09/22 18:00)](https://dgb.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=35666)
+> [대구은행 신입은행원 채용 (~09/22 18:00)](https://dgb.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=35666)
 >
 > [2020년 하반기 우리은행 신입행원 채용 (~09:23 18:00)](https://wooribank.incruit.com/hire/viewhire.asp?projectid=104)
 >

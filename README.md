@@ -140,9 +140,9 @@
 |   괄호 변환    |  2   | https://programmers.co.kr/learn/courses/30/lessons/60058 |     O      |
 | 자물쇠와 열쇠  |  3   | https://programmers.co.kr/learn/courses/30/lessons/60059 |     O      |
 | 기둥과 보 설치 |  3   | https://programmers.co.kr/learn/courses/30/lessons/60061 |     O      |
-|   외벽 점검    |  3   | https://programmers.co.kr/learn/courses/30/lessons/60062 |     X      |
-| 블록 이동하기  |  3   | https://programmers.co.kr/learn/courses/30/lessons/60063 |     X      |
-|   가사 검색    |  4   | https://programmers.co.kr/learn/courses/30/lessons/60060 |     X      |
+|   외벽 점검    |  3   | https://programmers.co.kr/learn/courses/30/lessons/60062 |     O      |
+| 블록 이동하기  |  3   | https://programmers.co.kr/learn/courses/30/lessons/60063 |     O      |
+|   가사 검색    |  4   | https://programmers.co.kr/learn/courses/30/lessons/60060 |     O      |
 
 ------
 

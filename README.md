@@ -88,9 +88,9 @@
 |   5644    |      무선 충전       | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRDL1aeugDFAUo) |     O     |
 |   5648    | 원자 소멸 시뮬레이션 | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRFInKex8DFAUo) |     O     |
 |   5650    |      핀볼 게임       | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRF8s6ezEDFAUo) |     O     |
-|   5653    |     줄기세포배양     | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo) |     -     |
-|   5656    |      벽돌 깨기       | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) |     -     |
-|   5658    |  보물상자 비밀번호   | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo) |     -     |
+|   5653    |     줄기세포배양     | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo) |     O     |
+|   5656    |      벽돌 깨기       | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) |     O     |
+|   5658    |  보물상자 비밀번호   | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo) |     O     |
 
 ------
 

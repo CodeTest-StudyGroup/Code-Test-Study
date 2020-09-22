@@ -86,7 +86,7 @@
 </details>
 
 <details markdown="1">
-<summary><strong>📄 SW Expert Academy 모의 SW 역량테스트 (월요일 2문제)</strong></summary>
+<summary><strong>📄 SW Expert Academy 모의 SW 역량테스트 </strong></summary>
 
 | 문제 번호 |         제목         |                             URL                              | 
 | :-------: | :------------------: | :----------------------------------------------------------: | 

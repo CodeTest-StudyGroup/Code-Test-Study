@@ -11,9 +11,18 @@
 
 ------
 
+
+### **📅 일정표 (9.18~ 매주 4문제 풀고 업로드)**
+| |1|2|3|4|
+|:-:|:-:|:-:|:-:|:-:|
+|1주차(09.18~09.26)|[우수 마을](https://www.acmicpc.net/problem/1949)|[대기업 승범이네](https://www.acmicpc.net/problem/17831)|||
+
+------
+
 ## **💻 문제 목록**
 
-### 📌 **1. 삼성 SW 역량 테스트 기출 문제**
+<details markdown="1">
+<summary><strong>📄 삼성 SW 역량 테스트 기출 문제</strong></summary>
 
 | 문제 번호 |      제목       |                  URL                  | 풀이(O,X) |
 | :-------: | :-------------: | :-----------------------------------: | :-------: |
@@ -51,10 +60,10 @@
 |   19237   | 어른 상어 | https://www.acmicpc.net/problem/19237 |     -     |
 |   19238   | 스타트 택시 | https://www.acmicpc.net/problem/19238 |     -     |
 ------
+</details>
 
-
-
-### 📌**2. 카카오 코드 페스티벌 2018 예선**
+<details markdown="1">
+<summary><strong>📄 카카오 코드 페스티벌 2018 예선</strong></summary>
 
 | 문제 번호 |   제목    |               URL                | 풀이(O,X) |
 | :-------: | :-------: | :------------------------------: | :-------: |
@@ -62,8 +71,10 @@
 |   15954   |  인형들   | http://acmicpc.net/problem/15954 |     O     |
 
 ------
+</details>
 
-### 📌**3. 카카오 코드 페스티벌 2018**
+<details markdown="1">
+<summary><strong>📄 카카오 코드 페스티벌 2018</strong></summary>
 
 | 문제 번호 |         제목         |               URL                | 풀이(O,X) |
 | :-------: | :------------------: | :------------------------------: | :-------: |
@@ -71,8 +82,10 @@
 |   15998   |      카카오머니      | http://acmicpc.net/problem/15998 |     O      |
 
 ------
+</details>
 
-### 📌**4. SW Expert Academy 모의 SW 역량테스트 (월요일 2문제)**
+<details markdown="1">
+<summary><strong>📄 SW Expert Academy 모의 SW 역량테스트 (월요일 2문제)</strong></summary>
 
 | 문제 번호 |         제목         |                             URL                              | 풀이(O,X) |
 | :-------: | :------------------: | :----------------------------------------------------------: | :-------: |
@@ -93,8 +106,10 @@
 |   5658    |  보물상자 비밀번호   | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo) |     O     |
 
 ------
+</details>
 
-### 📌**5. 프로그래머스**
+<details markdown="1">
+<summary><strong>📄 프로그래머스</strong></summary>
 
 |    제목    |                           URL                            | 풀이(O,X) |
 | :--------: | :------------------------------------------------------: | :-------: |
@@ -115,10 +130,12 @@
 | 예산 | https://programmers.co.kr/learn/courses/30/lessons/43237 | O |
 
 ------
+</details>
 
 
 
-### 📌**6. 2019 카카오 개발자 겨울 인턴십 문제 (프로그래머스)**
+<details markdown="1">
+<summary><strong>📄 2019 카카오 개발자 겨울 인턴십 문제 (프로그래머스)</strong></summary>
 
 |         문제         | 레벨 |                           URL                            | 풀이(O, X) |
 | :------------------: | :--: | :------------------------------------------------------: | :--------: |
@@ -129,10 +146,11 @@
 |   징검다리 건너기    |  4   | https://programmers.co.kr/learn/courses/30/lessons/64062 |     O     |
 
 ------
+</details>
 
 
-
-### 📌**7. 2020 KAKAO BLIND RECRUITMENT (프로그래머스)**
+<details markdown="1">
+<summary><strong>📄 2020 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 풀이(O, X) |
 | :------------: | :--: | :------------------------------------------------------: | :--------: |
@@ -145,13 +163,9 @@
 |   가사 검색    |  4   | https://programmers.co.kr/learn/courses/30/lessons/60060 |     O      |
 
 ------
+</details>
 
-### 📌 **8. 일정표 (9.18~ 매주 4문제 풀고 업로드)**
-| |1|2|3|4|
-|:-:|:-:|:-:|:-:|:-:|
-|1주차(09.18~09.26)|[우수 마을](https://www.acmicpc.net/problem/1949)|[대기업 승범이네](https://www.acmicpc.net/problem/17831)|||
-
-
+------
 
 ### 👨‍👧 채용 공고
 > [대구은행 신입은행원 채용 (~09/22 18:00)](https://dgb.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=35666)

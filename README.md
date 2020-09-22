@@ -6,7 +6,7 @@
 * **Code-Test-Study 그룹은 누구나 참여할 수 있습니다!**
 
 * `💻 문제 목록`에 있는 문제를 풀고 **각자 이름**으로 된 폴더 밑에 소스코드를 업로드
-  * **🧲 Pull Request 작성 규칙**을 참고하여 문제 목록에서 풀이한 자신의 코드를 업로드해 주세요.
+  * 🧲 [**Pull Request 작성 규칙**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/wiki/%F0%9F%A7%B2-Pull-Request-&-Commit-Message-%EA%B7%9C%EC%B9%99)을 참고하여 문제 목록에서 풀이한 자신의 코드를 업로드해 주세요.
 * 비정기적으로 **코드 리뷰** 병행
 * 백준의 삼성 역량 테스트, 프로그래머스, 카카오 기출 등 수록
 

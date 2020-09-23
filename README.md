@@ -170,8 +170,6 @@
 
 
 ## 👨‍👧 채용 공고
-> [2020년 하반기 우리은행 신입행원 채용 (~09:23 18:00)](https://wooribank.incruit.com/hire/viewhire.asp?projectid=104)
->
 > [SK그룹 하반기 신입채용 (~9.25)](https://www.skcareers.com/POS/TRM2102.aspx?PosCD=P2009A110002&rURL=/POS/TRM2101.aspx)
 >
 > [LG CNS 하반기 신입채용 (~9.29 18:00)](http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=12401)

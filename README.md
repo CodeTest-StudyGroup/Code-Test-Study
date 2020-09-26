@@ -16,7 +16,7 @@
 ## **📅 일정표 (9.18~ 매주 4문제)**
 | |1|2|3|4|
 |:-:|:-:|:-:|:-:|:-:|
-|1주차(09.18~09.26)|[우수 마을](https://www.acmicpc.net/problem/1949)|[대기업 승범이네](https://www.acmicpc.net/problem/17831)|||
+|1주차(09.18~09.26)|[우수 마을](https://www.acmicpc.net/problem/1949)|[대기업 승범이네](https://www.acmicpc.net/problem/17831)|[내리막길](https://www.acmicpc.net/problem/1520)|[DSLR](https://www.acmicpc.net/problem/9019)|
 
 ------
 

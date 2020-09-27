@@ -170,6 +170,6 @@
 
 
 ## 👨‍👧 채용 공고
-> [SK그룹 하반기 신입채용 (~9.25)](https://www.skcareers.com/POS/TRM2102.aspx?PosCD=P2009A110002&rURL=/POS/TRM2101.aspx)
+> [11번가 신입 개발자 공채 (~9.28 18:00)](https://m.11stcorp.com/career/newcomer/dev/2020)
 >
 > [LG CNS 하반기 신입채용 (~9.29 18:00)](http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=12401)

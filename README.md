@@ -17,7 +17,7 @@
 | |1|2|3|4|
 |:-:|:-:|:-:|:-:|:-:|
 |1주차(09.18~09.26)|[우수 마을](https://www.acmicpc.net/problem/1949)|[대기업 승범이네](https://www.acmicpc.net/problem/17831)|[내리막길](https://www.acmicpc.net/problem/1520)|[DSLR](https://www.acmicpc.net/problem/9019)|
-
+|2주차(09.27~10.03)|[트리의 지름](https://www.acmicpc.net/problem/1167)|[파티](https://www.acmicpc.net/problem/1238)|||
 ------
 
 ## **💻 문제 목록**

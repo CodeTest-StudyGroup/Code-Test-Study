@@ -177,6 +177,10 @@
 
 
 ## 👨‍👧 채용 공고
-> [11번가 신입 개발자 공채 (~9.28 18:00)](https://m.11stcorp.com/career/newcomer/dev/2020)
+> [KB국민은행 디지털 부분 채용 (~10.05 18:00)](https://kbstar.incruit.com/hire/viewhire.asp?projectid=103)
 >
-> [LG CNS 하반기 신입채용 (~9.29 18:00)](http://apply.lg.com/app/job/RetrieveJobNoticesDetail.rpi?jobNoticeId=12401)
+> [현대모비스 신입사원 채용 (~10.12 23:59)](https://mobis.recruiter.co.kr/app/jobnotice/list)
+>
+> [NHN 신입 개발자 공개채용 (~10.13 17:00)](https://recruit.nhn.com/ent/landing?#none)
+>
+> [NC SOFT 신입사원 공개채용 (~10.14 14:00)](https://www.ncruiting.com/w/index.html)

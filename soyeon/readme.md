@@ -50,11 +50,11 @@
 
 |    제목    |                           URL                            | 풀이(O,X) |
 | :--------: | :------------------------------------------------------: | :-------: |
-| 가장 큰 수 | https://programmers.co.kr/learn/courses/30/lessons/42746 |          |
-|    카펫    | https://programmers.co.kr/learn/courses/30/lessons/42842 |          |
+| 가장 큰 수 | https://programmers.co.kr/learn/courses/30/lessons/42746 |      O    |
+|    카펫    | https://programmers.co.kr/learn/courses/30/lessons/42842 |     O     |
 |  조이스틱  | https://programmers.co.kr/learn/courses/30/lessons/42860 |          |
 |  숫자야구  | https://programmers.co.kr/learn/courses/30/lessons/42841  |          |
-|  타겟 넘버  | https://programmers.co.kr/learn/courses/30/lessons/43165  |         |
+|  타겟 넘버  | https://programmers.co.kr/learn/courses/30/lessons/43165  |    O     |
 |  N으로 표현 | https://programmers.co.kr/learn/courses/30/lessons/42895 |          |
 |            |                                                          |           |
 |            |                                                          |           |
@@ -73,7 +73,7 @@
 |         문제         | 레벨 |                           URL                            | 풀이(O, X) |
 | :------------------: | :--: | :------------------------------------------------------: | :--------: |
 | 크레인 인형뽑기 게임 |  1   | https://programmers.co.kr/learn/courses/30/lessons/64061 |           |
-|         튜플         |  2   | https://programmers.co.kr/learn/courses/30/lessons/64065 |           |
+|         튜플         |  2   | https://programmers.co.kr/learn/courses/30/lessons/64065 |      O     |
 |     불량 사용자      |  3   | https://programmers.co.kr/learn/courses/30/lessons/64064 |           |
 |     호텔 방 배정     |  3   | https://programmers.co.kr/learn/courses/30/lessons/64063 |           |
 |   징검다리 건너기    |  4   | https://programmers.co.kr/learn/courses/30/lessons/64062 |           |
@@ -87,7 +87,7 @@
 |      문제      | 레벨 |                                                          | 풀이(O, X) |
 | :------------: | :--: | :------------------------------------------------------: | :--------: |
 |  문자열 압축   |  2   | https://programmers.co.kr/learn/courses/30/lessons/60057 |           |
-|   괄호 변환    |  2   | https://programmers.co.kr/learn/courses/30/lessons/60058 |           |
+|   괄호 변환    |  2   | https://programmers.co.kr/learn/courses/30/lessons/60058 |    O       |
 | 자물쇠와 열쇠  |  3   | https://programmers.co.kr/learn/courses/30/lessons/60059 |           |
 | 기둥과 보 설치 |  3   | https://programmers.co.kr/learn/courses/30/lessons/60061 |           |
 |   외벽 점검    |  3   | https://programmers.co.kr/learn/courses/30/lessons/60062 |           |

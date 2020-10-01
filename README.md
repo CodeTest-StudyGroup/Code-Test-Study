@@ -173,8 +173,44 @@
 ------
 </details>
 
-------
+<details markdown="1">
+<summary><strong>📄 2019 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
 
+|      문제      | 레벨 |                           URL                            | 
+| :------------: | :--: | :------------------------------------------------------: |
+|  실패율   |  1   | https://programmers.co.kr/learn/courses/30/lessons/42889 |   
+|   오픈채팅방    |  2   | https://programmers.co.kr/learn/courses/30/lessons/42888 |     
+| 후보키  |  2   | https://programmers.co.kr/learn/courses/30/lessons/42890 |   
+| 길 찾기 게임 |  3   | https://programmers.co.kr/learn/courses/30/lessons/42892 |    
+|   매칭 점수    |  3   | https://programmers.co.kr/learn/courses/30/lessons/42893 |  
+| 무지의 먹방 라이브  |  4   | https://programmers.co.kr/learn/courses/30/lessons/42891 |  
+|   블록 게임    |  4   | https://programmers.co.kr/learn/courses/30/lessons/42894 |    
+
+------
+</details>
+
+<details markdown="1">
+<summary><strong>📄 2018 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 
+| :------------: | :--: | :------------------------------------------------------: |
+|  [1차] 비밀지도   |  1   | https://programmers.co.kr/learn/courses/30/lessons/17681 |   
+|   [1차] 다트 게임    |  1   | https://programmers.co.kr/learn/courses/30/lessons/17682 |     
+| [1차] 뉴스 클러스터링  |  2   | https://programmers.co.kr/learn/courses/30/lessons/17677 |   
+| [1차] 프렌즈4블록 |  2   | https://programmers.co.kr/learn/courses/30/lessons/17679 |    
+|   [1차] 캐시    |  2   | https://programmers.co.kr/learn/courses/30/lessons/17680 |  
+| [3차] 방금그곡  |  2   | https://programmers.co.kr/learn/courses/30/lessons/17683 |  
+|   [3차] 압축    |  2   | https://programmers.co.kr/learn/courses/30/lessons/17684 |    
+|  [3차] 파일명 정렬   |  2   | https://programmers.co.kr/learn/courses/30/lessons/17686 |   
+|   [3차] n진수 게임    |  2   | https://programmers.co.kr/learn/courses/30/lessons/17687 |     
+| [1차] 추석 트래픽  |  3   | https://programmers.co.kr/learn/courses/30/lessons/17676 |   
+| [1차] 셔틀버스 |  3   | https://programmers.co.kr/learn/courses/30/lessons/17678 |    
+|   [3차] 자동완성    |  4   | https://programmers.co.kr/learn/courses/30/lessons/17685 |  
+
+------
+</details>
+
+------
 
 ## 👨‍👧 채용 공고
 > [KB국민은행 디지털 부분 채용 (~10.05 18:00)](https://kbstar.incruit.com/hire/viewhire.asp?projectid=103)

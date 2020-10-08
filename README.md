@@ -214,10 +214,15 @@
 ------
 
 ## 👨‍👧 채용 공고
-> [KB국민은행 디지털 부분 채용 (~10.05 18:00)](https://kbstar.incruit.com/hire/viewhire.asp?projectid=103)
->
 > [현대모비스 신입사원 채용 (~10.12 23:59)](https://mobis.recruiter.co.kr/app/jobnotice/list)
+>
+> [2020 KT&G 신입사원 채용  (~10.13 15:00)](https://ktng.recruiter.co.kr/app/jobnotice/view?systemKindCode=MRS2&jobnoticeSn=36621)
 >
 > [NHN 신입 개발자 공개채용 (~10.13 17:00)](https://recruit.nhn.com/ent/landing?#none)
 >
 > [NC SOFT 신입사원 공개채용 (~10.14 14:00)](https://www.ncruiting.com/w/index.html)
+>
+> [KB국민은행 신입 IT부분 수시채용 (~10.14 18:00)](https://kbstar.incruit.com/hire/viewhire.asp?projectid=102)
+>
+> [현대자동차 ICT 신입/경력채용 (~10.19 23:59)](http://recruit.hyundai.com/hfront/webapply/applyView.do?recuYy=2020&recuType=16&recuCls=108)
+>

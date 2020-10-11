@@ -25,7 +25,9 @@
 |:-:|:-:|:-:|:-:|:-:|
 |1주차(09.18~09.26)|[우수 마을](https://www.acmicpc.net/problem/1949)|[대기업 승범이네](https://www.acmicpc.net/problem/17831)|[내리막길](https://www.acmicpc.net/problem/1520)|[DSLR](https://www.acmicpc.net/problem/9019)|
 |2주차(09.27~10.03)|[트리의 지름](https://www.acmicpc.net/problem/1167)|[파티](https://www.acmicpc.net/problem/1238)|[카드 게임](https://www.acmicpc.net/problem/16566)|[전깃줄 - 2](https://www.acmicpc.net/problem/2568)|
-|3주차(10.04~10.10)|[철로](https://www.acmicpc.net/problem/13334)|[스도쿠](https://www.acmicpc.net/problem/2580)|[비용](https://www.acmicpc.net/problem/2463)|[열쇠](https://www.acmicpc.net/problem/9328)
+|3주차(10.04~10.10)|[철로](https://www.acmicpc.net/problem/13334)|[스도쿠](https://www.acmicpc.net/problem/2580)|[비용](https://www.acmicpc.net/problem/2463)|[열쇠](https://www.acmicpc.net/problem/9328)|
+|4주차(10.11~10.17)|[트리 색칠하기](https://www.acmicpc.net/problem/1693)|[보석 도둑](https://www.acmicpc.net/problem/1202)|||
+
 ------
 
 ## **💻 문제 목록**

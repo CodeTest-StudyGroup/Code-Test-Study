@@ -7,13 +7,13 @@ int main() {
 
 	ios::sync_with_stdio(false);
 
-	int N, K, V, M, W;				//º¸¼®ÀÇ °¹¼ö, °¡¹æÀÇ °¹¼ö
+	int N, K, V, M, W;				//ë³´ì„ì˜ ê°¯ìˆ˜, ê°€ë°©ì˜ ê°¯ìˆ˜
 	long long total_price = 0;
 	typedef pair<long long, long long> pair;
 	cin >> N >> K;
 
-	priority_queue<pair> MV;		//º¸¼®ÀÇ ¹«°Ô M°ú °¡°İ V
-	multiset<int> C;				//°¢ °¡¹æÀÇ ÃÖ´ë ¹«°Ô C
+	priority_queue<pair> MV;		//ë³´ì„ì˜ ë¬´ê²Œ Mê³¼ ê°€ê²© V
+	multiset<int> C;				//ê° ê°€ë°©ì˜ ìµœëŒ€ ë¬´ê²Œ C
 
 	for (int i = 0; i < N; i++) {
 		cin >> M >> V;

@@ -217,9 +217,3 @@
 ------
 
 ## 👨‍👧 채용 공고
-> [NC SOFT 신입사원 공개채용 (~10.14 14:00)](https://www.ncruiting.com/w/index.html)
->
-> [KB국민은행 신입 IT부분 수시채용 (~10.14 18:00)](https://kbstar.incruit.com/hire/viewhire.asp?projectid=102)
->
-> [현대자동차 ICT 신입/경력채용 (~10.19 23:59)](http://recruit.hyundai.com/hfront/webapply/applyView.do?recuYy=2020&recuType=16&recuCls=108)
->

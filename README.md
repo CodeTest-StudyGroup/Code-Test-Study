@@ -31,7 +31,7 @@
 |6주차(10.25~10.31)|[RBY팡!](https://www.acmicpc.net/problem/5577)|[놀이공원](https://www.acmicpc.net/problem/1561)|[공주님의 정원](https://www.acmicpc.net/problem/2457)|[달빛 여우](https://www.acmicpc.net/problem/16118)|
 |7주차(11.01~11.07)|[계산기](https://www.acmicpc.net/problem/17497)|[폴짝 게임](https://www.acmicpc.net/problem/17498)|[국경](https://www.acmicpc.net/problem/17500)|[수식 트리](https://www.acmicpc.net/problem/17501)|
 |8주차(11.08~11.14)|[K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)|[섬](https://www.acmicpc.net/problem/16000)|[Gaaaaaarden](https://www.acmicpc.net/problem/18809)|[버스 노선](https://www.acmicpc.net/problem/10165)|
-
+|9주차(11.15~11.21)|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|[용이 산다](https://www.acmicpc.net/problem/3430)|[뱀](https://www.acmicpc.net/problem/10875)|[들쥐의 탈출](https://www.acmicpc.net/problem/2191)|
 ------
 
 ## **💻 문제 목록**

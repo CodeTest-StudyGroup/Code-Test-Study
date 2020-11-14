@@ -71,9 +71,14 @@
 |   17822   | 원판 돌리기 | https://www.acmicpc.net/problem/17822 |     
 |   17825   | 주사위 윷놀이 | https://www.acmicpc.net/problem/17825 |   
 |   19235   | 모노미노도미노 | https://www.acmicpc.net/problem/19235 |    
+|   20061   | 모노미노도미노 2 | https://www.acmicpc.net/problem/20061 |   
 |   19236   | 청소년 상어 | https://www.acmicpc.net/problem/19236 |   
 |   19237   | 어른 상어 | https://www.acmicpc.net/problem/19237 |   
 |   19238   | 스타트 택시 | https://www.acmicpc.net/problem/19238 |    
+|   20055   | 컨베이어 벨트 위의 로봇 | https://www.acmicpc.net/problem/20055 |    
+|   20056   | 마법사 상어와 파이어볼 | https://www.acmicpc.net/problem/20056 |    
+|   20057   | 마법사 상어와 토네이도 | https://www.acmicpc.net/problem/20057 |    
+|   20058   | 마법사 상어와 파이어스톰 | https://www.acmicpc.net/problem/20058 |    
 ------
 </details>
 

@@ -32,6 +32,7 @@
 |7주차(11.01~11.07)|[계산기](https://www.acmicpc.net/problem/17497)|[폴짝 게임](https://www.acmicpc.net/problem/17498)|[국경](https://www.acmicpc.net/problem/17500)|[수식 트리](https://www.acmicpc.net/problem/17501)|
 |8주차(11.08~11.14)|[K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)|[섬](https://www.acmicpc.net/problem/16000)|[Gaaaaaarden](https://www.acmicpc.net/problem/18809)|[버스 노선](https://www.acmicpc.net/problem/10165)|
 |9주차(11.15~11.21)|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|[용이 산다](https://www.acmicpc.net/problem/3430)|[뱀](https://www.acmicpc.net/problem/10875)|[들쥐의 탈출](https://www.acmicpc.net/problem/2191)|
+|10주차(11.22~11.28)|[우주신과의 교감](https://www.acmicpc.net/problem/1774)|[여행 가자](https://www.acmicpc.net/problem/1976)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[소수의 곱](https://www.acmicpc.net/problem/2014)|
 ------
 
 ## **💻 문제 목록**
@@ -71,9 +72,14 @@
 |   17822   | 원판 돌리기 | https://www.acmicpc.net/problem/17822 |     
 |   17825   | 주사위 윷놀이 | https://www.acmicpc.net/problem/17825 |   
 |   19235   | 모노미노도미노 | https://www.acmicpc.net/problem/19235 |    
+|   20061   | 모노미노도미노 2 | https://www.acmicpc.net/problem/20061 |   
 |   19236   | 청소년 상어 | https://www.acmicpc.net/problem/19236 |   
 |   19237   | 어른 상어 | https://www.acmicpc.net/problem/19237 |   
 |   19238   | 스타트 택시 | https://www.acmicpc.net/problem/19238 |    
+|   20055   | 컨베이어 벨트 위의 로봇 | https://www.acmicpc.net/problem/20055 |    
+|   20056   | 마법사 상어와 파이어볼 | https://www.acmicpc.net/problem/20056 |    
+|   20057   | 마법사 상어와 토네이도 | https://www.acmicpc.net/problem/20057 |    
+|   20058   | 마법사 상어와 파이어스톰 | https://www.acmicpc.net/problem/20058 |    
 ------
 </details>
 

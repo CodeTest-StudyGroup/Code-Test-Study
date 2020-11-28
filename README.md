@@ -33,7 +33,7 @@
 |8주차(11.08~11.14)|[K번째 최단경로 찾기](https://www.acmicpc.net/problem/1854)|[섬](https://www.acmicpc.net/problem/16000)|[Gaaaaaarden](https://www.acmicpc.net/problem/18809)|[버스 노선](https://www.acmicpc.net/problem/10165)|
 |9주차(11.15~11.21)|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|[용이 산다](https://www.acmicpc.net/problem/3430)|[뱀](https://www.acmicpc.net/problem/10875)|[들쥐의 탈출](https://www.acmicpc.net/problem/2191)|
 |10주차(11.22~11.28)|[우주신과의 교감](https://www.acmicpc.net/problem/1774)|[여행 가자](https://www.acmicpc.net/problem/1976)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[소수의 곱](https://www.acmicpc.net/problem/2014)|
-|11주차(11.29~12.05)|[단어 수학](https://www.acmicpc.net/problem/1339)|[이분 그래프](https://www.acmicpc.net/problem/1707)|||
+|11주차(11.29~12.05)|[단어 수학](https://www.acmicpc.net/problem/1339)|[이분 그래프](https://www.acmicpc.net/problem/1707)|[치즈](https://www.acmicpc.net/problem/2638)|[N번째 큰 수](https://www.acmicpc.net/problem/2075)|
 ------
 
 ## **💻 문제 목록**

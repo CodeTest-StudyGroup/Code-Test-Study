@@ -9,6 +9,7 @@
   * 🧲 [**Pull Request 작성 규칙**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/wiki/%F0%9F%A7%B2-Pull-Request-&-Commit-Message-%EA%B7%9C%EC%B9%99)을 참고하여 문제 목록에서 풀이한 자신의 코드를 업로드해 주세요.
 * 비정기적으로 **코드 리뷰** 병행
 * 백준의 삼성 역량 테스트, 프로그래머스, 카카오 기출 등 수록
+* `📅 일정표`에 추가되는 문항들을 직접 추천해 주세요!! -> [**바로가기**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/discussions/212)
 
 ------
 ## 🤹 **백준 그룹**
@@ -34,7 +35,12 @@
 |9주차(11.15~11.21)|[떡 먹는 호랑이](https://www.acmicpc.net/problem/2502)|[용이 산다](https://www.acmicpc.net/problem/3430)|[뱀](https://www.acmicpc.net/problem/10875)|[들쥐의 탈출](https://www.acmicpc.net/problem/2191)|
 |10주차(11.22~11.28)|[우주신과의 교감](https://www.acmicpc.net/problem/1774)|[여행 가자](https://www.acmicpc.net/problem/1976)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[소수의 곱](https://www.acmicpc.net/problem/2014)|
 |11주차(11.29~12.05)|[단어 수학](https://www.acmicpc.net/problem/1339)|[이분 그래프](https://www.acmicpc.net/problem/1707)|[치즈](https://www.acmicpc.net/problem/2638)|[N번째 큰 수](https://www.acmicpc.net/problem/2075)|
+<<<<<<< HEAD
 |12주차(12.06~12.12)|[IQ Test](https://www.acmicpc.net/problem/1111)|[캔디캔디]https://www.acmicpc.net/problem/2878|
+=======
+|12주차(12.06~12.12)|[IQ Test](https://www.acmicpc.net/problem/1111)|[원판 돌리기](https://www.acmicpc.net/problem/17822)|[외판원 순회](https://www.acmicpc.net/problem/2098)|[최솟값과 최댓값](https://www.acmicpc.net/problem/2357)|
+|13주차(12.13~12.19)|[수 묶기](https://www.acmicpc.net/problem/1744)|[여왕벌](https://www.acmicpc.net/problem/10836)|
+>>>>>>> 81e9a766a34108d4b83d2975c8b263f6c91cbfdb
 ------
 
 ## **💻 문제 목록**

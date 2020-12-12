@@ -36,7 +36,7 @@
 |10주차(11.22~11.28)|[우주신과의 교감](https://www.acmicpc.net/problem/1774)|[여행 가자](https://www.acmicpc.net/problem/1976)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[소수의 곱](https://www.acmicpc.net/problem/2014)|
 |11주차(11.29~12.05)|[단어 수학](https://www.acmicpc.net/problem/1339)|[이분 그래프](https://www.acmicpc.net/problem/1707)|[치즈](https://www.acmicpc.net/problem/2638)|[N번째 큰 수](https://www.acmicpc.net/problem/2075)|
 |12주차(12.06~12.12)|[IQ Test](https://www.acmicpc.net/problem/1111)|[원판 돌리기](https://www.acmicpc.net/problem/17822)|[외판원 순회](https://www.acmicpc.net/problem/2098)|[최솟값과 최댓값](https://www.acmicpc.net/problem/2357)|
-|13주차(12.13~12.19)|[수 묶기](https://www.acmicpc.net/problem/1744)|[여왕벌](https://www.acmicpc.net/problem/10836)|
+|13주차(12.13~12.19)|[수 묶기](https://www.acmicpc.net/problem/1744)|[여왕벌](https://www.acmicpc.net/problem/10836)|[가운데를 말해요](https://www.acmicpc.net/problem/1655)|[트리](https://www.acmicpc.net/problem/4256)|
 ------
 
 ## **💻 문제 목록**
@@ -230,4 +230,3 @@
 ------
 
 ## 👨‍👧 채용 및 교육 공고
-> [삼성SDS 동계 대학생 알고리즘 특강(~12.11)](https://bit.ly/sds_2021_winter)

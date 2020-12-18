@@ -20,7 +20,7 @@ for i, population in enumerate(list(map(int, input().split()))):
 
 for _ in range(n - 1):
     a, b = map(int, input().split())
-    # Dual appending and reduces every number by 1
+    # Append both and reduces every number by 1
     towns[a-1]["nearby"].append(b-1)
     towns[b-1]["nearby"].append(a-1)
 

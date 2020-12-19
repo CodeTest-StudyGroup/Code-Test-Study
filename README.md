@@ -38,7 +38,7 @@
 |11주차(11.29~12.05)|[단어 수학](https://www.acmicpc.net/problem/1339)|[이분 그래프](https://www.acmicpc.net/problem/1707)|[치즈](https://www.acmicpc.net/problem/2638)|[N번째 큰 수](https://www.acmicpc.net/problem/2075)|
 |12주차(12.06~12.12)|[IQ Test](https://www.acmicpc.net/problem/1111)|[원판 돌리기](https://www.acmicpc.net/problem/17822)|[외판원 순회](https://www.acmicpc.net/problem/2098)|[최솟값과 최댓값](https://www.acmicpc.net/problem/2357)|
 |13주차(12.13~12.19)|[수 묶기](https://www.acmicpc.net/problem/1744)|[여왕벌](https://www.acmicpc.net/problem/10836)|[가운데를 말해요](https://www.acmicpc.net/problem/1655)|[트리](https://www.acmicpc.net/problem/4256)|
-|14주차(12.20~12.26)|[최솟값 찾기](https://www.acmicpc.net/problem/11003)|[행성 터널](https://www.acmicpc.net/problem/2887)|[징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)|
+|14주차(12.20~12.26)|[최솟값 찾기](https://www.acmicpc.net/problem/11003)|[행성 터널](https://www.acmicpc.net/problem/2887)|[징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)|[후위 표기식](https://www.acmicpc.net/problem/1918)|
 ------
 
 ## **💻 문제 목록**

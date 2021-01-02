@@ -162,6 +162,19 @@
 </details>
 
 
+<details markdown="1">
+<summary><strong>📄 2020 카카오 인턴십 (프로그래머스)</strong></summary>
+
+|         문제         | 레벨 |                           URL                            | 
+| :------------------: | :--: | :------------------------------------------------------: | 
+| 키패드 누르기 |  1   | https://programmers.co.kr/learn/courses/30/lessons/67256 |    
+|         수식 최대화         |  2   | https://programmers.co.kr/learn/courses/30/lessons/67257 |   
+|     보석 쇼핑      |  3   | https://programmers.co.kr/learn/courses/30/lessons/67258 |    
+|     경주로 건설     |  3   | https://programmers.co.kr/learn/courses/30/lessons/67259 |  
+|   동굴 탐험    |  4   | https://programmers.co.kr/learn/courses/30/lessons/67260 |    
+
+------
+</details>
 
 <details markdown="1">
 <summary><strong>📄 2019 카카오 개발자 겨울 인턴십 문제 (프로그래머스)</strong></summary>

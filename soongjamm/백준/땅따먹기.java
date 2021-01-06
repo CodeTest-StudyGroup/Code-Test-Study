@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class 땅따먹기 {
 
     static int solution(int[][] land) {
@@ -26,14 +24,5 @@ public class 땅따먹기 {
             max = Math.max(max, memory[land.length-1][i]);
         }
         return max;
-    }
-
-
-    public static void main(String[] args) {
-        int[][] arr = {{1, 2, 3, 5}, {5, 6, 7, 8}, {4, 3, 2, 1}};
-        int[][] arr2 = {{1, 1, 1, 5}, {0, 0, 0, 100}, {1, 2, 3, 4}, {4, 3, 3, 1}};
-
-        System.out.println(solution(arr) == 16);
-        System.out.println(solution(arr2));
     }
 }

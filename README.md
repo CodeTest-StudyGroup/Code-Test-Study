@@ -7,9 +7,11 @@
 
 * `💻 문제 목록` 혹은 `📅일정표`에 있는 문제를 풀고 **각자 이름**으로 된 폴더 밑에 소스코드를 업로드해 주세요.
   * 🧲 [**Pull Request 작성 규칙**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/wiki/%F0%9F%A7%B2-Pull-Request-&-Commit-Message-%EA%B7%9C%EC%B9%99)을 참고하여 문제 목록에서 풀이한 자신의 코드를 업로드해 주세요.
+* **`📅 일정표`에 추가되는 문항들을 Discussions의 `🙌 문제 추천하기`로 직접 추천해 주세요!** -> [**바로가기**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/discussions/212)
+* 코딩테스트뿐만 아니라 **자료구조, 알고리즘과 관련된 궁금한 점 혹은 다른 사람과 이야기를 해보고 싶은 주제가 있다면** 언제든지 자유롭게 Discussions에서 **`💡 알고리즘, 자료구조`에 등록해주세요!** -> [**바로가기**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/discussions)
+
 * 비정기적으로 **코드 리뷰** 병행
 * 백준의 삼성 역량 테스트, 프로그래머스, 카카오 기출 등 수록
-* `📅 일정표`에 추가되는 문항들을 직접 추천해 주세요!! -> [**바로가기**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/discussions/212)
 
 ------
 ## 🤹 **백준 그룹**
@@ -36,7 +38,10 @@
 |10주차(11.22~11.28)|[우주신과의 교감](https://www.acmicpc.net/problem/1774)|[여행 가자](https://www.acmicpc.net/problem/1976)|[문자열 폭발](https://www.acmicpc.net/problem/9935)|[소수의 곱](https://www.acmicpc.net/problem/2014)|
 |11주차(11.29~12.05)|[단어 수학](https://www.acmicpc.net/problem/1339)|[이분 그래프](https://www.acmicpc.net/problem/1707)|[치즈](https://www.acmicpc.net/problem/2638)|[N번째 큰 수](https://www.acmicpc.net/problem/2075)|
 |12주차(12.06~12.12)|[IQ Test](https://www.acmicpc.net/problem/1111)|[원판 돌리기](https://www.acmicpc.net/problem/17822)|[외판원 순회](https://www.acmicpc.net/problem/2098)|[최솟값과 최댓값](https://www.acmicpc.net/problem/2357)|
-|13주차(12.13~12.19)|[수 묶기](https://www.acmicpc.net/problem/1744)|[여왕벌](https://www.acmicpc.net/problem/10836)|
+|13주차(12.13~12.19)|[수 묶기](https://www.acmicpc.net/problem/1744)|[여왕벌](https://www.acmicpc.net/problem/10836)|[가운데를 말해요](https://www.acmicpc.net/problem/1655)|[트리](https://www.acmicpc.net/problem/4256)|
+|14주차(12.20~12.26)|[최솟값 찾기](https://www.acmicpc.net/problem/11003)|[행성 터널](https://www.acmicpc.net/problem/2887)|[징검다리 건너기](https://programmers.co.kr/learn/courses/30/lessons/64062)|[후위 표기식](https://www.acmicpc.net/problem/1918)|
+|15주차(12.27~01.02)|[거의 최단경로](https://www.acmicpc.net/problem/5719)|[아우으 우아으이야!!](https://www.acmicpc.net/problem/15922)|[트리의 지름](https://www.acmicpc.net/problem/1167)|[토마토](https://www.acmicpc.net/problem/7569)|
+|16주차(01.03~01.09)|[저울](https://www.acmicpc.net/problem/10159)|[로봇 시뮬레이션](https://www.acmicpc.net/problem/2174)|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|
 ------
 
 ## **💻 문제 목록**
@@ -158,6 +163,19 @@
 </details>
 
 
+<details markdown="1">
+<summary><strong>📄 2020 카카오 인턴십 (프로그래머스)</strong></summary>
+
+|         문제         | 레벨 |                           URL                            | 
+| :------------------: | :--: | :------------------------------------------------------: | 
+| 키패드 누르기 |  1   | https://programmers.co.kr/learn/courses/30/lessons/67256 |    
+|         수식 최대화         |  2   | https://programmers.co.kr/learn/courses/30/lessons/67257 |   
+|     보석 쇼핑      |  3   | https://programmers.co.kr/learn/courses/30/lessons/67258 |    
+|     경주로 건설     |  3   | https://programmers.co.kr/learn/courses/30/lessons/67259 |  
+|   동굴 탐험    |  4   | https://programmers.co.kr/learn/courses/30/lessons/67260 |    
+
+------
+</details>
 
 <details markdown="1">
 <summary><strong>📄 2019 카카오 개발자 겨울 인턴십 문제 (프로그래머스)</strong></summary>
@@ -230,4 +248,3 @@
 ------
 
 ## 👨‍👧 채용 및 교육 공고
-> [삼성SDS 동계 대학생 알고리즘 특강(~12.11)](https://bit.ly/sds_2021_winter)

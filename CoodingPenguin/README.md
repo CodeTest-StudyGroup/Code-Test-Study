@@ -1,6 +1,6 @@
-# CoodingPenguin Code-Test-Study 🐧
+# CoodingPenguin
 
-코딩테스트 기출 문제를 풀어보고 업로드하는 Repository 입니다.
+[코딩하는펭귄](https://github.com/CoodingPenguin)입니다!🐧
 
 ---
 
@@ -116,7 +116,7 @@
 |    [1차] 다트 게임    |  1   | https://programmers.co.kr/learn/courses/30/lessons/17682 |  ✔   |
 | [1차] 뉴스 클러스터링 |  2   | https://programmers.co.kr/learn/courses/30/lessons/17677 |  ✔   |
 |   [1차] 프렌즈4블록   |  2   | https://programmers.co.kr/learn/courses/30/lessons/17679 |      |
-|      [1차] 캐시       |  2   | https://programmers.co.kr/learn/courses/30/lessons/17680 |      |
+|      [1차] 캐시       |  2   | https://programmers.co.kr/learn/courses/30/lessons/17680 |  ✔   |
 |    [3차] 방금그곡     |  2   | https://programmers.co.kr/learn/courses/30/lessons/17683 |      |
 |      [3차] 압축       |  2   | https://programmers.co.kr/learn/courses/30/lessons/17684 |      |
 |   [3차] 파일명 정렬   |  2   | https://programmers.co.kr/learn/courses/30/lessons/17686 |      |

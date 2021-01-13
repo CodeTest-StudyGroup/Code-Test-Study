@@ -110,17 +110,17 @@
 
 - **8. 2018 KAKAO BLIND RECRUITMENT**
 
-|         문제          | 레벨 |                           URL                            | 체크 |
-| :-------------------: | :--: | :------------------------------------------------------: | :--: |
-|    [1차] 비밀지도     |  1   | https://programmers.co.kr/learn/courses/30/lessons/17681 |  ✔   |
-|    [1차] 다트 게임    |  1   | https://programmers.co.kr/learn/courses/30/lessons/17682 |  ✔   |
-| [1차] 뉴스 클러스터링 |  2   | https://programmers.co.kr/learn/courses/30/lessons/17677 |  ✔   |
-|   [1차] 프렌즈4블록   |  2   | https://programmers.co.kr/learn/courses/30/lessons/17679 |      |
-|      [1차] 캐시       |  2   | https://programmers.co.kr/learn/courses/30/lessons/17680 |  ✔   |
-|    [3차] 방금그곡     |  2   | https://programmers.co.kr/learn/courses/30/lessons/17683 |      |
-|      [3차] 압축       |  2   | https://programmers.co.kr/learn/courses/30/lessons/17684 |      |
-|   [3차] 파일명 정렬   |  2   | https://programmers.co.kr/learn/courses/30/lessons/17686 |      |
-|   [3차] n진수 게임    |  2   | https://programmers.co.kr/learn/courses/30/lessons/17687 |      |
-|   [1차] 추석 트래픽   |  3   | https://programmers.co.kr/learn/courses/30/lessons/17676 |      |
-|    [1차] 셔틀버스     |  3   | https://programmers.co.kr/learn/courses/30/lessons/17678 |      |
-|    [3차] 자동완성     |  4   | https://programmers.co.kr/learn/courses/30/lessons/17685 |      |
+|         문제          | 레벨 |                           URL                            | 체크 | 💪  |
+| :-------------------: | :--: | :------------------------------------------------------: | :--: | :-: |
+|    [1차] 비밀지도     |  1   | https://programmers.co.kr/learn/courses/30/lessons/17681 |  ✔   |     |
+|    [1차] 다트 게임    |  1   | https://programmers.co.kr/learn/courses/30/lessons/17682 |  ✔   |     |
+| [1차] 뉴스 클러스터링 |  2   | https://programmers.co.kr/learn/courses/30/lessons/17677 |  ✔   |     |
+|   [1차] 프렌즈4블록   |  2   | https://programmers.co.kr/learn/courses/30/lessons/17679 |  ✔   |     |
+|      [1차] 캐시       |  2   | https://programmers.co.kr/learn/courses/30/lessons/17680 |  ✔   |  ✔  |
+|    [3차] 방금그곡     |  2   | https://programmers.co.kr/learn/courses/30/lessons/17683 |      |     |
+|      [3차] 압축       |  2   | https://programmers.co.kr/learn/courses/30/lessons/17684 |      |     |
+|   [3차] 파일명 정렬   |  2   | https://programmers.co.kr/learn/courses/30/lessons/17686 |      |     |
+|   [3차] n진수 게임    |  2   | https://programmers.co.kr/learn/courses/30/lessons/17687 |      |     |
+|   [1차] 추석 트래픽   |  3   | https://programmers.co.kr/learn/courses/30/lessons/17676 |      |     |
+|    [1차] 셔틀버스     |  3   | https://programmers.co.kr/learn/courses/30/lessons/17678 |      |     |
+|    [3차] 자동완성     |  4   | https://programmers.co.kr/learn/courses/30/lessons/17685 |      |     |

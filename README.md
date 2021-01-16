@@ -43,7 +43,7 @@
 |15주차(12.27~01.02)|[거의 최단경로](https://www.acmicpc.net/problem/5719)|[아우으 우아으이야!!](https://www.acmicpc.net/problem/15922)|[트리의 지름](https://www.acmicpc.net/problem/1167)|[토마토](https://www.acmicpc.net/problem/7569)|
 |16주차(01.03~01.09)|[저울](https://www.acmicpc.net/problem/10159)|[로봇 시뮬레이션](https://www.acmicpc.net/problem/2174)|[땅따먹기](https://programmers.co.kr/learn/courses/30/lessons/12913)|[말이 되고픈 원숭이](https://www.acmicpc.net/problem/1600)|
 |17주차(01.10~01.16)|[파일 합치기](https://www.acmicpc.net/problem/11066)|[과외맨](https://www.acmicpc.net/problem/5213)|[최종 순위](https://www.acmicpc.net/problem/3665)|[전력난](https://www.acmicpc.net/problem/6497)|
-|18주차(01.17~01.23)|[택배](https://www.acmicpc.net/problem/8980)|[근손실](https://www.acmicpc.net/problem/18429)|||
+|18주차(01.17~01.23)|[택배](https://www.acmicpc.net/problem/8980)|[근손실](https://www.acmicpc.net/problem/18429)|[견우와 직녀](https://www.acmicpc.net/problem/16137)|[상근이의 여행](https://www.acmicpc.net/problem/9372)|
 ------
 
 ## **💻 문제 목록**

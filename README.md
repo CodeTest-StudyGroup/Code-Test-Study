@@ -45,6 +45,7 @@
 |17주차(01.10~01.16)|[파일 합치기](https://www.acmicpc.net/problem/11066)|[과외맨](https://www.acmicpc.net/problem/5213)|[최종 순위](https://www.acmicpc.net/problem/3665)|[전력난](https://www.acmicpc.net/problem/6497)|
 |18주차(01.17~01.23)|[택배](https://www.acmicpc.net/problem/8980)|[근손실](https://www.acmicpc.net/problem/18429)|[견우와 직녀](https://www.acmicpc.net/problem/16137)|[상근이의 여행](https://www.acmicpc.net/problem/9372)|
 |19주차(01.24~01.30)|[새로운 게임](https://www.acmicpc.net/problem/17780)|[불켜기](https://www.acmicpc.net/problem/11967)|[로봇 조립](https://www.acmicpc.net/problem/18116)|[감소하는 수](https://www.acmicpc.net/problem/1038)|
+|20주차(01.31~02.06)|[빗물](https://www.acmicpc.net/problem/14719)|[친구비](https://www.acmicpc.net/problem/16562)|||
 ------
 
 ## **💻 문제 목록**

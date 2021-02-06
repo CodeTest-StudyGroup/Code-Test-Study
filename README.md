@@ -46,7 +46,7 @@
 |18주차(01.17~01.23)|[택배](https://www.acmicpc.net/problem/8980)|[근손실](https://www.acmicpc.net/problem/18429)|[견우와 직녀](https://www.acmicpc.net/problem/16137)|[상근이의 여행](https://www.acmicpc.net/problem/9372)|
 |19주차(01.24~01.30)|[새로운 게임](https://www.acmicpc.net/problem/17780)|[불켜기](https://www.acmicpc.net/problem/11967)|[로봇 조립](https://www.acmicpc.net/problem/18116)|[감소하는 수](https://www.acmicpc.net/problem/1038)|
 |20주차(01.31~02.06)|[빗물](https://www.acmicpc.net/problem/14719)|[친구비](https://www.acmicpc.net/problem/16562)|[경찰서](https://www.acmicpc.net/problem/1506)|[전화번호 목록](https://www.acmicpc.net/problem/5052)|
-|21주차(02.07~02.13)|[컬러볼](https://www.acmicpc.net/problem/10800)|[마라톤 2](https://www.acmicpc.net/problem/10653)|||
+|21주차(02.07~02.13)|[컬러볼](https://www.acmicpc.net/problem/10800)|[마라톤 2](https://www.acmicpc.net/problem/10653)|[인터넷 설치](https://www.acmicpc.net/problem/1800)|[구슬 탈출](https://www.acmicpc.net/problem/13459)|
 ------
 
 ## **💻 문제 목록**

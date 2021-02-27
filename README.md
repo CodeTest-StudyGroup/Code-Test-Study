@@ -49,6 +49,7 @@
 |21주차(02.07~02.13)|[컬러볼](https://www.acmicpc.net/problem/10800)|[마라톤 2](https://www.acmicpc.net/problem/10653)|[인터넷 설치](https://www.acmicpc.net/problem/1800)|[구슬 탈출](https://www.acmicpc.net/problem/13459)|
 |22주차(02.14~02.20)|[작업](https://www.acmicpc.net/problem/2056)|[LCA](https://www.acmicpc.net/problem/11437)|[회장뽑기](https://www.acmicpc.net/problem/2660)|[소형기관차](https://www.acmicpc.net/problem/2616)|
 |23주차(02.21~02.27)|[친구 네트워크](https://www.acmicpc.net/problem/4195)|[로봇](https://www.acmicpc.net/problem/1726)|[멀티탭 스케줄링](https://www.acmicpc.net/problem/1700)|[다리 만들기](https://www.acmicpc.net/problem/2146)|
+|24주차(02.28~03.06)|[네트워크 복구](https://www.acmicpc.net/problem/2211)|[드래곤 앤 던전](https://www.acmicpc.net/problem/16434)|[]()|[]()|
 ------
 
 ## **💻 문제 목록**

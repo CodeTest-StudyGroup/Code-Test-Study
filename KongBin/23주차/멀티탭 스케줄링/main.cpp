@@ -14,6 +14,12 @@ int main() {
 	vector<int> multitap;
 	vector<int> task;
 	
+	int visited[101];
+	fill(visited,visited+101,0);
+	
+	int cnt=0;
+	int s_idx=0;
+	
 	for(int i=0 ; i<M ; i++)
 	{
 		int temp;
@@ -22,16 +28,23 @@ int main() {
 		
 		task.push_back(temp);
 		
-		if(i<N)
+		if(cnt<N)
 		{
-			multitap.push_back(temp);
-			check[temp]=1;
+			s_idx++;
+			if(visited[temp]==0)
+			{	
+				visited[temp]=1;
+				multitap.push_back(temp);
+				check[temp]=1;
+				cnt++;
+			}
 		}
+		
 	}
 	
 	int result=0;
 	
-	for(int i=N ; i<M ; i++)
+	for(int i=s_idx ; i<M ; i++)
 	{
 		int temp;
 		
@@ -46,11 +59,15 @@ int main() {
 		
 	
 		int j;
+			
+		fill(visited,visited+101,0);
 		for(j=i+1 ; j<M ; j++)
 		{
-			if(check[task[j]]==1)
+			
+			if(check[task[j]]==1 && visited[task[j]]==0)
 			{
 				temp_multi.erase(find(temp_multi.begin(), temp_multi.end(), task[j]));
+				visited[task[j]]=1;
 			}
 			
 			if(temp_multi.size()==1)
@@ -61,11 +78,6 @@ int main() {
 				check[temp]=1;
 				result++;
 				break;
-			}
-			else if(temp_multi.size()==0)
-			{
-				cout<<task.size()-1;
-				return 0;
 			}
 		}
 		
@@ -79,4 +91,5 @@ int main() {
 		}
 	}
 	cout<<result;
+	return 0;
 }

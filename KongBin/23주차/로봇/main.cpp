@@ -28,16 +28,7 @@ int visited[101][101][4];
 
 void find_result(Data &start, Data &end, vector< vector<int> > &board)
 {	
-	//fill(visited[0][0],visited[N+1][0],0);
-	
-	for(int i=1 ; i<=N ; i++)
-	{
-		for(int j=1 ; j<=M ; j++)
-		{
-			for(int k=0; k<4; k++)
-				visited[i][j][k]=0;
-		}
-	}
+	fill(visited[0][0],visited[N+1][0],0);
 	
 	queue<Data> q;
 	
@@ -51,10 +42,6 @@ void find_result(Data &start, Data &end, vector< vector<int> > &board)
 		int dir=q.front().dir;
 		int point = q.front().point;
 		
-		//이 시발럼  
-		//visited[x][y][dir]=1;
-		//cout<<visited[x][y][dir]<<" ";
-		
 		q.pop();
 		
 		if(x==end.x && y==end.y)
@@ -62,7 +49,7 @@ void find_result(Data &start, Data &end, vector< vector<int> > &board)
 			if(res>point+cal_dir[dir][end.dir])
 				res=point+cal_dir[dir][end.dir];
 			
-			continue;
+			return;
 		}
 		
 		for(int j=1; j<=3 ; j++)
@@ -77,23 +64,16 @@ void find_result(Data &start, Data &end, vector< vector<int> > &board)
 				break;
 				
 			if(visited[next_x][next_y][dir]==1)
-			{
-				//cout<<"sibal";
 				continue;
-			}
 			
 			visited[next_x][next_y][dir]=1;
-		//	cout<<"\n"<<next_x<<" "<<next_y<<" "<<dir<<"\n";
-		//	cout<<visited[next_x][next_y][dir]<<" ";
 			q.push(Data(next_x, next_y, dir, point+1));
 		}
 		
-	//	cout<<"\n\n\n";
 		for(int i=0 ; i<4 ; i++)
 		{
 			if(visited[x][y][i]==1 || i==dir)
 				continue;		
-			//cout<<"a";
 			
 			visited[x][y][i]=1;
 			q.push(Data(x,y,i,point+cal_dir[dir][i]));

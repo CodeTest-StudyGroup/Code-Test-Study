@@ -203,6 +203,24 @@
 </details>
 
 
+
+<details markdown="1">
+<summary><strong>📄 2021 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 
+| :------------: | :--: | :------------------------------------------------------: |
+|  신규 아이디 추천   |  1   | https://programmers.co.kr/learn/courses/30/lessons/72410 |   
+|   메뉴 리뉴얼   |  2   | https://programmers.co.kr/learn/courses/30/lessons/72411 |     
+|  순위 검색     |  2   | https://programmers.co.kr/learn/courses/30/lessons/72412 |   
+| 합승 택시 요금 |  3   | https://programmers.co.kr/learn/courses/30/lessons/72413 |    
+|   광고 삽입   |  3   | https://programmers.co.kr/learn/courses/30/lessons/72414 |  
+| 카드 짝 맞추기  |  3   | https://programmers.co.kr/learn/courses/30/lessons/72415 |  
+|   매출 하락 최소화    |  4   | https://programmers.co.kr/learn/courses/30/lessons/72416 |    
+
+------
+</details>
+
+
 <details markdown="1">
 <summary><strong>📄 2020 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
 

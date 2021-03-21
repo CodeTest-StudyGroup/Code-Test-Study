@@ -104,28 +104,6 @@
 </details>
 
 <details markdown="1">
-<summary><strong>📄 카카오 코드 페스티벌 2018 예선</strong></summary>
-
-| 문제 번호 |   제목    |               URL                | 
-| :-------: | :-------: | :------------------------------: | 
-|   15953   | 상금 헌터 | http://acmicpc.net/problem/15953 |     
-|   15954   |  인형들   | http://acmicpc.net/problem/15954 |   
-
-------
-</details>
-
-<details markdown="1">
-<summary><strong>📄 카카오 코드 페스티벌 2018</strong></summary>
-
-| 문제 번호 |         제목         |               URL                | 
-| :-------: | :------------------: | :------------------------------: |
-|   15997   |      승부 예측       | http://acmicpc.net/problem/15997 |    
-|   15998   |      카카오머니      | http://acmicpc.net/problem/15998 |    
-
-------
-</details>
-
-<details markdown="1">
 <summary><strong>📄 SW Expert Academy 모의 SW 역량테스트 </strong></summary>
 
 | 문제 번호 |         제목         |                             URL                              | 
@@ -270,6 +248,28 @@
 | [1차] 추석 트래픽  |  3   | https://programmers.co.kr/learn/courses/30/lessons/17676 |   
 | [1차] 셔틀버스 |  3   | https://programmers.co.kr/learn/courses/30/lessons/17678 |    
 |   [3차] 자동완성    |  4   | https://programmers.co.kr/learn/courses/30/lessons/17685 |  
+
+------
+</details>
+
+<details markdown="1">
+<summary><strong>📄 카카오 코드 페스티벌 2018 예선</strong></summary>
+
+| 문제 번호 |   제목    |               URL                | 
+| :-------: | :-------: | :------------------------------: | 
+|   15953   | 상금 헌터 | http://acmicpc.net/problem/15953 |     
+|   15954   |  인형들   | http://acmicpc.net/problem/15954 |   
+
+------
+</details>
+
+<details markdown="1">
+<summary><strong>📄 카카오 코드 페스티벌 2018</strong></summary>
+
+| 문제 번호 |         제목         |               URL                | 
+| :-------: | :------------------: | :------------------------------: |
+|   15997   |      승부 예측       | http://acmicpc.net/problem/15997 |    
+|   15998   |      카카오머니      | http://acmicpc.net/problem/15998 |    
 
 ------
 </details>

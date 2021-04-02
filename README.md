@@ -129,31 +129,6 @@
 </details>
 
 <details markdown="1">
-<summary><strong>📄 프로그래머스</strong></summary>
-
-|    제목    |                           URL                            | 
-| :--------: | :------------------------------------------------------: |
-| 가장 큰 수 | https://programmers.co.kr/learn/courses/30/lessons/42746 |   
-|    카펫    | https://programmers.co.kr/learn/courses/30/lessons/42842 |   
-|  조이스틱  | https://programmers.co.kr/learn/courses/30/lessons/42860 |    
-|  숫자야구  | https://programmers.co.kr/learn/courses/30/lessons/42841  | 
-|  타겟 넘버  | https://programmers.co.kr/learn/courses/30/lessons/43165  |  
-|  N으로 표현 | https://programmers.co.kr/learn/courses/30/lessons/42895 |    
-| 타일 장식물 | https://programmers.co.kr/learn/courses/30/lessons/43104  |  
-| 전화번호 목록 | https://programmers.co.kr/learn/courses/30/lessons/42577 | 
-|  네트워크  |https://programmers.co.kr/learn/courses/30/lessons/43162 |     
-|    위장    | https://programmers.co.kr/learn/courses/30/lessons/42578 | 
-|  단어변환  | https://programmers.co.kr/learn/courses/30/lessons/43163  |   
-|    탑    | https://programmers.co.kr/learn/courses/30/lessons/42588 |    
-| H-Index | https://programmers.co.kr/learn/courses/30/lessons/42747 | 
-| 입국 심사 | https://programmers.co.kr/learn/courses/30/lessons/43238 | 
-| 예산 | https://programmers.co.kr/learn/courses/30/lessons/43237 |
-
-------
-</details>
-
-
-<details markdown="1">
 <summary><strong>📄 2021 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
 
 |      문제      | 레벨 |                           URL                            | 

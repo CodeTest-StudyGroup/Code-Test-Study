@@ -18,7 +18,7 @@ int dfs(int x, int y) {
         return 0;
     if (x == 0 && y == 0)
         return 1;
-    
+
     dp[x][y] = 0;
     for (int k = 0; k < 4; k++) {
         int dx = x + moveX[k];
@@ -31,16 +31,16 @@ int dfs(int x, int y) {
 
 int main() {
     ios::sync_with_stdio(false); cin.tie(NULL); cout.tie(NULL);
-    
+
     cin >> M >> N;
     for (int i = 0; i < M; i++) {
         for (int j = 0; j < N; j++) {
             cin >> numbers[i][j];
         }
     }
-    
+
     memset(dp, -1, sizeof(dp));
     cout << dfs(M-1, N-1);
-    
+
     return 0;
 }

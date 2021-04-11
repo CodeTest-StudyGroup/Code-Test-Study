@@ -54,6 +54,8 @@
 |26주차(03.14~03.20)|[우체국](https://www.acmicpc.net/problem/2285)|[ZOAC](https://www.acmicpc.net/problem/16719)|[사회망 서비스](https://www.acmicpc.net/problem/2533)|[가르침](https://www.acmicpc.net/problem/1062)|
 |27주차(03.21~03.27)|[인내의 도미노 장인 호석](https://www.acmicpc.net/problem/20165)|[불](https://www.acmicpc.net/problem/5427)|[욕심쟁이 판다](https://www.acmicpc.net/problem/1937)|[퍼즐](https://www.acmicpc.net/problem/1525)|
 |28주차(03.28~04.03)|[옥상정원 꾸미기](https://www.acmicpc.net/problem/6198)|[리모콘](https://www.acmicpc.net/problem/1107)|[공항](https://www.acmicpc.net/problem/10775)|[통나무 옮기기](https://www.acmicpc.net/problem/1938)|
+|29주차(04.04~04.10)|[다오와 디지니의 데이트](https://www.acmicpc.net/problem/20553 )|[메이플스토리](https://www.acmicpc.net/problem/20925)|[숫자고르기](https://www.acmicpc.net/problem/2668)|[국왕의 방문](https://www.acmicpc.net/problem/2982)|
+|30주차(04.11~04.17)|[벽부수고 이동하기4](https://www.acmicpc.net/problem/16946)|[탑](https://www.acmicpc.net/problem/2493)|[할로윈의 양아치](https://www.acmicpc.net/problem/20303)|[반도체 설계](https://www.acmicpc.net/problem/2352)|
 ------
 
 ## **💻 문제 목록**
@@ -127,31 +129,6 @@
 
 ------
 </details>
-
-<details markdown="1">
-<summary><strong>📄 프로그래머스</strong></summary>
-
-|    제목    |                           URL                            | 
-| :--------: | :------------------------------------------------------: |
-| 가장 큰 수 | https://programmers.co.kr/learn/courses/30/lessons/42746 |   
-|    카펫    | https://programmers.co.kr/learn/courses/30/lessons/42842 |   
-|  조이스틱  | https://programmers.co.kr/learn/courses/30/lessons/42860 |    
-|  숫자야구  | https://programmers.co.kr/learn/courses/30/lessons/42841  | 
-|  타겟 넘버  | https://programmers.co.kr/learn/courses/30/lessons/43165  |  
-|  N으로 표현 | https://programmers.co.kr/learn/courses/30/lessons/42895 |    
-| 타일 장식물 | https://programmers.co.kr/learn/courses/30/lessons/43104  |  
-| 전화번호 목록 | https://programmers.co.kr/learn/courses/30/lessons/42577 | 
-|  네트워크  |https://programmers.co.kr/learn/courses/30/lessons/43162 |     
-|    위장    | https://programmers.co.kr/learn/courses/30/lessons/42578 | 
-|  단어변환  | https://programmers.co.kr/learn/courses/30/lessons/43163  |   
-|    탑    | https://programmers.co.kr/learn/courses/30/lessons/42588 |    
-| H-Index | https://programmers.co.kr/learn/courses/30/lessons/42747 | 
-| 입국 심사 | https://programmers.co.kr/learn/courses/30/lessons/43238 | 
-| 예산 | https://programmers.co.kr/learn/courses/30/lessons/43237 |
-
-------
-</details>
-
 
 <details markdown="1">
 <summary><strong>📄 2021 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>

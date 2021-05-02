@@ -58,6 +58,7 @@
 |30주차(04.11~04.17)|[벽부수고 이동하기4](https://www.acmicpc.net/problem/16946)|[탑](https://www.acmicpc.net/problem/2493)|[할로윈의 양아치](https://www.acmicpc.net/problem/20303)|[반도체 설계](https://www.acmicpc.net/problem/2352)|
 |31주차(04.18~04.24)|[확장 게임](https://www.acmicpc.net/problem/16920)|[모두 0으로 만들기](https://programmers.co.kr/learn/courses/30/lessons/76503)|[톱니 바퀴](https://www.acmicpc.net/problem/14891)|[회전 초밥](https://www.acmicpc.net/problem/15961)|
 |32주차(04.25~05.01)|[Contact](https://www.acmicpc.net/problem/1013)|[내려가기](https://www.acmicpc.net/problem/2096)|[이중우선순위큐](https://programmers.co.kr/learn/courses/30/lessons/42628)|[방의 개수](https://programmers.co.kr/learn/courses/30/lessons/49190)|
+|33주차(05.02~05.08)|[생태학](https://www.acmicpc.net/problem/4358)|[소문난 칠공주](https://www.acmicpc.net/problem/1941)|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)|
 ------
 
 ## **💻 문제 목록**

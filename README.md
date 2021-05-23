@@ -61,6 +61,7 @@
 |33주차(05.02~05.08)|[생태학](https://www.acmicpc.net/problem/4358)|[소문난 칠공주](https://www.acmicpc.net/problem/1941)|[디스크 컨트롤러](https://programmers.co.kr/learn/courses/30/lessons/42627)|[징검다리](https://programmers.co.kr/learn/courses/30/lessons/43236)|
 |34주차(05.09~05.15)|[순회강연](https://www.acmicpc.net/problem/2109)|[비밀 모임](https://www.acmicpc.net/problem/13424)|[지형 이동](https://programmers.co.kr/learn/courses/30/lessons/62050)|[풍선 터트리기](https://programmers.co.kr/learn/courses/30/lessons/68646)|
 |35주차(05.16~05.22)|[전기가 부족해](https://www.acmicpc.net/problem/10423)|[비슷한 단어](https://www.acmicpc.net/problem/2607)|[가장 먼 노드](https://programmers.co.kr/learn/courses/30/lessons/49189)|[2개 이하로 다른 비트](https://programmers.co.kr/learn/courses/30/lessons/77885)|
+|36주차(05.23~05.29)|[전기가 부족해](https://www.acmicpc.net/problem/10423)|[비슷한 단어](https://www.acmicpc.net/problem/2607)|[단어 변환](https://programmers.co.kr/learn/courses/30/lessons/43163)|[다단계 칫솔 판매](https://programmers.co.kr/learn/courses/30/lessons/77486)|
 ------
 
 ## **💻 문제 목록**

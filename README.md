@@ -65,6 +65,7 @@
 |37주차(05.30~06.05)|[도로검문](https://www.acmicpc.net/problem/2307)|[X와 K](https://www.acmicpc.net/problem/1322)|[하노이의 탑](https://programmers.co.kr/learn/courses/30/lessons/12946)|[행렬 테두리 회전 하기](https://programmers.co.kr/learn/courses/30/lessons/77485)|
 |38주차(06.06~06.12)|[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|[중량제한](https://www.acmicpc.net/problem/1939)|[캠프준비](https://www.acmicpc.net/problem/16938)|
 |39주차(06.13~06.19)|[화물차](https://www.acmicpc.net/problem/1400)|[합분해](https://www.acmicpc.net/problem/2225)|[k번째 수](https://www.acmicpc.net/problem/1300)|[맞춰봐](https://www.acmicpc.net/problem/1248)|
+|40주차(06.20~06.26)|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)|[빵집](https://www.acmicpc.net/problem/3109)|[로봇 프로젝트](https://www.acmicpc.net/problem/3649)|
 ------
 
 ## **💻 문제 목록**

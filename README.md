@@ -66,6 +66,7 @@
 |38주차(06.06~06.12)|[게임 맵 최단거리](https://programmers.co.kr/learn/courses/30/lessons/1844)|[순위](https://programmers.co.kr/learn/courses/30/lessons/49191)|[중량제한](https://www.acmicpc.net/problem/1939)|[캠프준비](https://www.acmicpc.net/problem/16938)|
 |39주차(06.13~06.19)|[화물차](https://www.acmicpc.net/problem/1400)|[합분해](https://www.acmicpc.net/problem/2225)|[k번째 수](https://www.acmicpc.net/problem/1300)|[맞춰봐](https://www.acmicpc.net/problem/1248)|
 |40주차(06.20~06.26)|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)|[빵집](https://www.acmicpc.net/problem/3109)|[로봇 프로젝트](https://www.acmicpc.net/problem/3649)|
+|41주차(06.27~07.03)|[가장 큰 정사각형](https://www.acmicpc.net/problem/1915)|[케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|[색종이 붙이기](https://www.acmicpc.net/problem/17136)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|
 ------
 
 ## **💻 문제 목록**

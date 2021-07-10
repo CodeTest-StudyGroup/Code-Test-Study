@@ -142,6 +142,22 @@
 ------
 </details>
 
+
+<details markdown="1">
+<summary><strong>📄 2021 카카오 채용연계형 인턴십 (프로그래머스)</summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 
+| :------------: | :--: | :------------------------------------------------------: |
+|  숫자 문자열과 영단어   |  1   | https://programmers.co.kr/learn/courses/30/lessons/81301 |   
+|   거리두기 확인하기   |  2   | https://programmers.co.kr/learn/courses/30/lessons/81302 |     
+|  표 편집     |  3   | https://programmers.co.kr/learn/courses/30/lessons/81303 |   
+| 미로 탈출 |  4   | https://programmers.co.kr/learn/courses/30/lessons/81304 |    
+|   시험장 나누기   |  5   | https://programmers.co.kr/learn/courses/30/lessons/81305 |    
+
+------
+</details>
+
+
 <details markdown="1">
 <summary><strong>📄 2021 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
 

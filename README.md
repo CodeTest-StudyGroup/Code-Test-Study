@@ -69,6 +69,7 @@
 |41주차(06.27~07.03)|[가장 큰 정사각형](https://www.acmicpc.net/problem/1915)|[케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|[색종이 붙이기](https://www.acmicpc.net/problem/17136)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|
 |42주차(07.04~07.10)|[모자이크](https://www.acmicpc.net/problem/2539)|[양치기 꿍](https://www.acmicpc.net/problem/3187)|[네트워크 복구](https://www.acmicpc.net/problem/2211)|[오름세](https://www.acmicpc.net/problem/3745)|
 |43주차(07.11~07.17)|[음악 프로그램](https://www.acmicpc.net/problem/2623)|[물대기](https://www.acmicpc.net/problem/1368)|[개미굴](https://www.acmicpc.net/problem/14725)|[트리와 쿼리](https://www.acmicpc.net/problem/15681)|
+|44주차(07.18~07.24)|[장난감 조립](https://www.acmicpc.net/problem/2637)|[나만 안되는 연애](https://www.acmicpc.net/problem/14621)|[문자열 집합](https://www.acmicpc.net/problem/14425)|[트리의 독립집합](https://www.acmicpc.net/problem/2213)|
 ------
 
 ## **💻 문제 목록**

@@ -68,6 +68,7 @@
 |40주차(06.20~06.26)|[베스트앨범](https://programmers.co.kr/learn/courses/30/lessons/42579)|[섬 연결하기](https://programmers.co.kr/learn/courses/30/lessons/42861)|[빵집](https://www.acmicpc.net/problem/3109)|[로봇 프로젝트](https://www.acmicpc.net/problem/3649)|
 |41주차(06.27~07.03)|[가장 큰 정사각형](https://www.acmicpc.net/problem/1915)|[케빈 베이컨의 6단계 법칙](https://www.acmicpc.net/problem/1389)|[색종이 붙이기](https://www.acmicpc.net/problem/17136)|[타겟 넘버](https://programmers.co.kr/learn/courses/30/lessons/43165)|
 |42주차(07.04~07.10)|[모자이크](https://www.acmicpc.net/problem/2539)|[양치기 꿍](https://www.acmicpc.net/problem/3187)|[네트워크 복구](https://www.acmicpc.net/problem/2211)|[오름세](https://www.acmicpc.net/problem/3745)|
+|43주차(07.11~07.17)|[음악 프로그램](https://www.acmicpc.net/problem/2623)|[물대기](https://www.acmicpc.net/problem/1368)|[개미굴](https://www.acmicpc.net/problem/14725)|[트리와 쿼리](https://www.acmicpc.net/problem/15681)|
 ------
 
 ## **💻 문제 목록**

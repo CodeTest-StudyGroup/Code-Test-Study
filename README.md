@@ -72,6 +72,12 @@
 |44주차(07.18~07.24)|[장난감 조립](https://www.acmicpc.net/problem/2637)|[나만 안되는 연애](https://www.acmicpc.net/problem/14621)|[문자열 집합](https://www.acmicpc.net/problem/14425)|[트리의 독립집합](https://www.acmicpc.net/problem/2213)|
 |45주차(07.25~07.31)|[댄스 파티](https://www.acmicpc.net/problem/2831)|[인싸들의 가위바위보](https://www.acmicpc.net/problem/16986)|[별자리 만들기](https://www.acmicpc.net/problem/4386)|[환승](https://www.acmicpc.net/problem/5214)|
 |46주차(08.01~08.07)|[암벽 등반](https://www.acmicpc.net/problem/2412)|[나누기](https://www.acmicpc.net/problem/21757)|[원자의 에너지](https://www.acmicpc.net/problem/2058)|[불!](https://www.acmicpc.net/problem/4179)|
+|47주차(08.08~08.14)|[움직이는 미로 탈출](https://www.acmicpc.net/problem/16954)|[고냥이](https://www.acmicpc.net/problem/16472)|[준표의 조약돌](https://www.acmicpc.net/problem/15831)|[두 배 더하기](https://www.acmicpc.net/problem/12931)|
+|48주차(08.15~08.21)|[스쿠루지 민호](https://www.acmicpc.net/problem/12896)|[알파 틱택토](https://www.acmicpc.net/problem/16571)|[개업 2](https://www.acmicpc.net/problem/13902)|[수열의 구간 평균](https://www.acmicpc.net/problem/19566)|
+|49주차(08.22~08.28)|[원숭이 스포츠](https://www.acmicpc.net/problem/16438)|[받아쓰기](https://www.acmicpc.net/problem/20542)|[쉬운 최단거리](https://www.acmicpc.net/problem/14940)|[행복 유치원](https://www.acmicpc.net/problem/13164)|
+|50주차(08.29~09.04)|[AC](https://www.acmicpc.net/problem/5430)|[도둑](https://www.acmicpc.net/problem/13422)|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|[성냥개비](https://www.acmicpc.net/problem/3687)|
+|51주차(09.05~09.11)|[중앙값 구하기](https://www.acmicpc.net/problem/2696)|[프로그램](https://www.acmicpc.net/problem/2900)|[벼락치기](https://www.acmicpc.net/problem/14728)|[복제 로봇](https://www.acmicpc.net/problem/1944)|
+
 ------
 
 ## **💻 문제 목록**

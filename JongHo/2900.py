@@ -24,3 +24,4 @@ a = [0] + a
 for _ in range(q):
     l, r = map(int, input().split())
     print(a[r+1] - a[l])
+    

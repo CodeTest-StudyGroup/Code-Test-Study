@@ -77,7 +77,7 @@
 |49주차(08.22~08.28)|[원숭이 스포츠](https://www.acmicpc.net/problem/16438)|[받아쓰기](https://www.acmicpc.net/problem/20542)|[쉬운 최단거리](https://www.acmicpc.net/problem/14940)|[행복 유치원](https://www.acmicpc.net/problem/13164)|
 |50주차(08.29~09.04)|[AC](https://www.acmicpc.net/problem/5430)|[도둑](https://www.acmicpc.net/problem/13422)|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|[성냥개비](https://www.acmicpc.net/problem/3687)|
 |51주차(09.05~09.11)|[중앙값 구하기](https://www.acmicpc.net/problem/2696)|[프로그램](https://www.acmicpc.net/problem/2900)|[벼락치기](https://www.acmicpc.net/problem/14728)|[복제 로봇](https://www.acmicpc.net/problem/1944)|
-|52주차(09.12~09.18)|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)| [버블 소트](https://www.acmicpc.net/problem/1517) |
+|52주차(09.12~09.18)|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)| [버블 소트](https://www.acmicpc.net/problem/1517) | [입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048)
 
 ------
 

@@ -23,7 +23,10 @@
 
 ------
 
-## **📅 일정표 (9.18~ 매주 4문제)**
+## **📅 일정표 (매주 4문제)**
+
+- `53주차`부터는 [프로그래머스 위클리 챌린지](https://programmers.co.kr/learn/challenges?tab=weekly_challenges)의 문제 1개씩을 포함합니다.
+
 | |1|2|3|4|
 |:-:|:-:|:-:|:-:|:-:|
 |1주차(09.18~09.26)|[우수 마을](https://www.acmicpc.net/problem/1949)|[대기업 승범이네](https://www.acmicpc.net/problem/17831)|[내리막길](https://www.acmicpc.net/problem/1520)|[DSLR](https://www.acmicpc.net/problem/9019)|
@@ -78,6 +81,9 @@
 |50주차(08.29~09.04)|[AC](https://www.acmicpc.net/problem/5430)|[도둑](https://www.acmicpc.net/problem/13422)|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|[성냥개비](https://www.acmicpc.net/problem/3687)|
 |51주차(09.05~09.11)|[중앙값 구하기](https://www.acmicpc.net/problem/2696)|[프로그램](https://www.acmicpc.net/problem/2900)|[벼락치기](https://www.acmicpc.net/problem/14728)|[복제 로봇](https://www.acmicpc.net/problem/1944)|
 |52주차(09.12~09.18)|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)| [버블 소트](https://www.acmicpc.net/problem/1517) | [입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048)
+|53주차(09.19~09.25)|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|
+|54주차(09.26~10.02)|[상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|
+|55주차(10.03~10.09)|[퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)|
 
 ------
 

@@ -81,7 +81,7 @@
 |50주차(08.29~09.04)|[AC](https://www.acmicpc.net/problem/5430)|[도둑](https://www.acmicpc.net/problem/13422)|[행렬 곱셈 순서](https://www.acmicpc.net/problem/11049)|[성냥개비](https://www.acmicpc.net/problem/3687)|
 |51주차(09.05~09.11)|[중앙값 구하기](https://www.acmicpc.net/problem/2696)|[프로그램](https://www.acmicpc.net/problem/2900)|[벼락치기](https://www.acmicpc.net/problem/14728)|[복제 로봇](https://www.acmicpc.net/problem/1944)|
 |52주차(09.12~09.18)|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)| [버블 소트](https://www.acmicpc.net/problem/1517) | [입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | [웜홀](https://www.acmicpc.net/problem/1865)
-|53주차(09.19~09.25)|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|
+|53주차(09.19~09.25)|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[커플 만들기](https://www.acmicpc.net/problem/1727)|[수확](https://www.acmicpc.net/problem/1823)|[동전 분배](https://www.acmicpc.net/problem/1943)|
 |54주차(09.26~10.02)|[상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|
 |55주차(10.03~10.09)|[퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)|
 

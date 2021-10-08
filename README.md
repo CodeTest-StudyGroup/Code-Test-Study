@@ -87,6 +87,7 @@
 |56주차(10.10~10.16)|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)|
 |57주차(10.17~10.23)|[모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|
 
+
 ## **💻 문제 목록**
 
 <details markdown="1">

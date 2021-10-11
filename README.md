@@ -84,7 +84,7 @@
 |53주차(09.19~09.25)|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[커플 만들기](https://www.acmicpc.net/problem/1727)|[수확](https://www.acmicpc.net/problem/1823)|[동전 분배](https://www.acmicpc.net/problem/1943)|
 |54주차(09.26~10.02)|[상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|||
 |55주차(10.03~10.09)|[퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)|[구간 합 구하기 2](https://www.acmicpc.net/problem/10999)|||
-|56주차(10.10~10.16)|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)||||
+|56주차(10.10~10.16)|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)|[난민](https://www.acmicpc.net/problem/23090)|||
 |57주차(10.17~10.23)|[모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)||||r
 
 ## **💻 문제 목록**

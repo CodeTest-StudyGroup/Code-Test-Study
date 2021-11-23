@@ -25,8 +25,6 @@
 
 ## **📅 일정표 (매주 4문제)**
 
-- `53주차`부터는 [프로그래머스 위클리 챌린지](https://programmers.co.kr/learn/challenges?tab=weekly_challenges)의 문제 1개씩을 포함합니다.
-
 | |1|2|3|4|
 |:-:|:-:|:-:|:-:|:-:|
 |1주차(09.18~09.26)|[우수 마을](https://www.acmicpc.net/problem/1949)|[대기업 승범이네](https://www.acmicpc.net/problem/17831)|[내리막길](https://www.acmicpc.net/problem/1520)|[DSLR](https://www.acmicpc.net/problem/9019)|
@@ -83,8 +81,8 @@
 |52주차(09.12~09.18)|[괄호 회전하기](https://programmers.co.kr/learn/courses/30/lessons/76502)| [버블 소트](https://www.acmicpc.net/problem/1517) | [입실 퇴실](https://programmers.co.kr/learn/courses/30/lessons/86048) | [웜홀](https://www.acmicpc.net/problem/1865)
 |53주차(09.19~09.25)|[부족한 금액 계산하기](https://programmers.co.kr/learn/courses/30/lessons/82612)|[커플 만들기](https://www.acmicpc.net/problem/1727)|[수확](https://www.acmicpc.net/problem/1823)|[동전 분배](https://www.acmicpc.net/problem/1943)|
 |54주차(09.26~10.02)|[상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|[전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)
-|55주차(10.03~10.09)|[퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)|[구간 합 구하기 2](https://www.acmicpc.net/problem/10999)|||
-|56주차(10.10~10.16)|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)|[난민](https://www.acmicpc.net/problem/23090)|||
+|55주차(10.03~10.09)|[퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)|[구간 합 구하기 2](https://www.acmicpc.net/problem/10999)|[후보 추천하기](https://www.acmicpc.net/problem/1713)|[숫자 맞추기]|(https://www.acmicpc.net/problem/2494)
+|56주차(10.10~10.16)|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)|[난민](https://www.acmicpc.net/problem/23090)|[열혈강호 4](https://www.acmicpc.net/problem/11378)|[로프](https://www.acmicpc.net/problem/2217)|
 |57주차(10.17~10.23)|[모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[수상 택시](https://www.acmicpc.net/problem/2836)|[크리스마스 트리 꾸미기](https://www.acmicpc.net/problem/16468)
 |58주차(10.24~10.30)|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[로봇 청소기](https://www.acmicpc.net/problem/4991)|[게임 개발](https://www.acmicpc.net/problem/1516)|[학교 탐방하기](https://www.acmicpc.net/problem/13418)
 

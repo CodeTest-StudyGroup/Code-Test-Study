@@ -85,8 +85,8 @@
 |54주차(09.26~10.02)|[상호 평가](https://programmers.co.kr/learn/courses/30/lessons/83201)|[구간 합 구하기](https://www.acmicpc.net/problem/2042)|[최소직사각형](https://programmers.co.kr/learn/courses/30/lessons/86491)|[전력망을 둘로 나누기](https://programmers.co.kr/learn/courses/30/lessons/86971)
 |55주차(10.03~10.09)|[퍼즐 조각 채우기](https://programmers.co.kr/learn/courses/30/lessons/84021)|[구간 합 구하기 2](https://www.acmicpc.net/problem/10999)|||
 |56주차(10.10~10.16)|[직업군 추천하기](https://programmers.co.kr/learn/courses/30/lessons/84325)|[난민](https://www.acmicpc.net/problem/23090)|||
-|57주차(10.17~10.23)|[모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)||
-|58주차(10.24~10.30)|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|||
+|57주차(10.17~10.23)|[모음사전](https://programmers.co.kr/learn/courses/30/lessons/84512)|[카펫](https://programmers.co.kr/learn/courses/30/lessons/42842)|[수상 택시](https://www.acmicpc.net/problem/2836)|[크리스마스 트리 꾸미기](https://www.acmicpc.net/problem/16468)
+|58주차(10.24~10.30)|[입국심사](https://programmers.co.kr/learn/courses/30/lessons/43238)|[로봇 청소기](https://www.acmicpc.net/problem/4991)|[게임 개발](https://www.acmicpc.net/problem/1516)|[학교 탐방하기](https://www.acmicpc.net/problem/13418)
 
 ## **💻 문제 목록**
 

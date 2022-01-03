@@ -6,19 +6,16 @@
 ## **Code-Test-Study 그룹은 `누구나` 참여할 수 있습니다!**
 
 * `💻 문제 목록` 혹은 `📅일정표`에 있는 문제를 풀고 **각자 이름**으로 된 폴더 밑에 소스코드를 업로드해 주세요.
-  * 🧲 [**Pull Request 작성 규칙**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/wiki/%F0%9F%A7%B2-Pull-Request-&-Commit-Message-%EA%B7%9C%EC%B9%99)을 참고하여 문제 목록에서 풀이한 자신의 코드를 업로드해 주세요.
-* **`📅 일정표`에 추가되는 문항들을 Discussions의 `🙌 문제 추천하기`로 직접 추천해 주세요!** -> [**바로가기**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/discussions/212)
+  * 🧲 [**Pull Request 작성 규칙**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/wiki/%F0%9F%A7%B2-Pull-Request-&-Commit-Message-%EA%B7%9C%EC%B9%99)을 참고하여 풀이한 자신의 코드를 업로드해 주세요.
 * 코딩테스트뿐만 아니라 **자료구조, 알고리즘과 관련된 궁금한 점 혹은 다른 사람과 이야기를 해보고 싶은 주제가 있다면** 언제든지 자유롭게 Discussions에서 **`💡 알고리즘, 자료구조`에 등록해주세요!** -> [**바로가기**](https://github.com/CodeTest-StudyGroup/Code-Test-Study/discussions)
 
-* 비정기적으로 **코드 리뷰** 병행
-* 백준 삼성 역량 테스트, 프로그래머스 카카오 기출 등 수록
+* `💻 문제 목록` 에는 백준 삼성 역량 테스트, 프로그래머스 카카오 기출문제 등의 링크를 수록했으니 참고하시면 좋습니다.
 
 ------
 ## 🤹 **백준 그룹**
 * 그룹 링크 : https://www.acmicpc.net/group/9233
 * 위의 백준 그룹에서는 하단의 `📅 일정표`에 존재하는 1주차 문제부터 58주차 문제까지 **문제집으로 수록**해 두었습니다. (백준에 있는 문제만 포함)
 * 그룹에 참여하셔서 문제 풀이 진행 상황을 직관적으로 확인해 보세요.
-* 다음 차시 문제 추천은 **Discussions** 탭에서 해주시면 됩니다. (종료)
 
 ------
 
@@ -302,4 +299,4 @@
 ## **🎓 감사합니다** 
 - 안녕하세요, Code-Test-Study 운영진입니다. 그동안 Code-Test-Study 문제를 풀고 다양한 피드백을 주신 분들께 아쉬운 소식을 전해드리게 되었습니다. 
 - 현재 모든 운영진이 취업을 하여 더 이상 양질의 문제를 업로드하기가 힘들 것이라 생각합니다. 따라서 내부적으로 고민과 논의를 거친 후 문제 업로드 활동을 종료하기로 결정하였습니다.
-- 하지만, 기존의 문제를 풀고 PR을 보내주시는 것은 언제나 환영입니다!!
+- **하지만, 기존의 문제를 풀고 PR을 보내주시는 것은 언제나 환영입니다!!**

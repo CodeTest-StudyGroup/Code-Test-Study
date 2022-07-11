@@ -85,6 +85,71 @@
 ## **💻 문제 목록**
 
 <details markdown="1">
+<summary><strong>📄 2022 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 
+| :------------: | :--: | :------------------------------------------------------: |
+|  신고 결과 받기   |  1   | https://school.programmers.co.kr/learn/courses/30/lessons/92334 |   
+|   k진수에서 소수 개수 구하기   |  2   | https://school.programmers.co.kr/learn/courses/30/lessons/92335 |     
+|  주차 요금 계산  |  2   | https://school.programmers.co.kr/learn/courses/30/lessons/92341 |   
+| 양궁대회 |  2   | https://school.programmers.co.kr/learn/courses/30/lessons/92342 |    
+|   양과 늑대   |  3   | https://school.programmers.co.kr/learn/courses/30/lessons/92343 |  
+| 파괴되지 않은 건물 |  3   | https://school.programmers.co.kr/learn/courses/30/lessons/92344 |  
+|   사라지는 발판  |  3   | https://school.programmers.co.kr/learn/courses/30/lessons/92345 |    
+
+------
+</details>
+
+<details markdown="1">
+<summary><strong>📄 2021 카카오 채용연계형 인턴십 (프로그래머스)</summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 
+| :------------: | :--: | :------------------------------------------------------: |
+|  숫자 문자열과 영단어   |  1   | https://programmers.co.kr/learn/courses/30/lessons/81301 |   
+|   거리두기 확인하기   |  2   | https://programmers.co.kr/learn/courses/30/lessons/81302 |     
+|  표 편집     |  3   | https://programmers.co.kr/learn/courses/30/lessons/81303 |   
+| 미로 탈출 |  4   | https://programmers.co.kr/learn/courses/30/lessons/81304 |    
+|   시험장 나누기   |  5   | https://programmers.co.kr/learn/courses/30/lessons/81305 |    
+
+------
+</details>
+
+
+<details markdown="1">
+<summary><strong>📄 2021 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 
+| :------------: | :--: | :------------------------------------------------------: |
+|  신규 아이디 추천   |  1   | https://programmers.co.kr/learn/courses/30/lessons/72410 |   
+|   메뉴 리뉴얼   |  2   | https://programmers.co.kr/learn/courses/30/lessons/72411 |     
+|  순위 검색     |  2   | https://programmers.co.kr/learn/courses/30/lessons/72412 |   
+| 합승 택시 요금 |  3   | https://programmers.co.kr/learn/courses/30/lessons/72413 |    
+|   광고 삽입   |  3   | https://programmers.co.kr/learn/courses/30/lessons/72414 |  
+| 카드 짝 맞추기  |  3   | https://programmers.co.kr/learn/courses/30/lessons/72415 |  
+|   매출 하락 최소화    |  4   | https://programmers.co.kr/learn/courses/30/lessons/72416 |    
+
+------
+</details>
+
+
+<details markdown="1">
+<summary><strong>📄 2020 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
+
+|      문제      | 레벨 |                           URL                            | 
+| :------------: | :--: | :------------------------------------------------------: |
+|  문자열 압축   |  2   | https://programmers.co.kr/learn/courses/30/lessons/60057 |   
+|   괄호 변환    |  2   | https://programmers.co.kr/learn/courses/30/lessons/60058 |     
+| 자물쇠와 열쇠  |  3   | https://programmers.co.kr/learn/courses/30/lessons/60059 |   
+| 기둥과 보 설치 |  3   | https://programmers.co.kr/learn/courses/30/lessons/60061 |    
+|   외벽 점검    |  3   | https://programmers.co.kr/learn/courses/30/lessons/60062 |  
+| 블록 이동하기  |  3   | https://programmers.co.kr/learn/courses/30/lessons/60063 |  
+|   가사 검색    |  4   | https://programmers.co.kr/learn/courses/30/lessons/60060 |    
+
+------
+</details>
+
+
+<details markdown="1">
 <summary><strong>📄 삼성 SW 역량 테스트 기출 문제</strong></summary>
 
 | 문제 번호 |      제목       |                  URL                  |
@@ -150,55 +215,6 @@
 |   5653    |     줄기세포배양     | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRJ8EKe48DFAUo) |   
 |   5656    |      벽돌 깨기       | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRQm6qfL0DFAUo) |   
 |   5658    |  보물상자 비밀번호   | [클릭](https://swexpertacademy.com/main/code/problem/problemDetail.do?contestProbId=AWXRUN9KfZ8DFAUo) |   
-
-------
-</details>
-
-
-<details markdown="1">
-<summary><strong>📄 2021 카카오 채용연계형 인턴십 (프로그래머스)</summary></strong>
-
-|      문제      | 레벨 |                           URL                            | 
-| :------------: | :--: | :------------------------------------------------------: |
-|  숫자 문자열과 영단어   |  1   | https://programmers.co.kr/learn/courses/30/lessons/81301 |   
-|   거리두기 확인하기   |  2   | https://programmers.co.kr/learn/courses/30/lessons/81302 |     
-|  표 편집     |  3   | https://programmers.co.kr/learn/courses/30/lessons/81303 |   
-| 미로 탈출 |  4   | https://programmers.co.kr/learn/courses/30/lessons/81304 |    
-|   시험장 나누기   |  5   | https://programmers.co.kr/learn/courses/30/lessons/81305 |    
-
-------
-</details>
-
-
-<details markdown="1">
-<summary><strong>📄 2021 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
-
-|      문제      | 레벨 |                           URL                            | 
-| :------------: | :--: | :------------------------------------------------------: |
-|  신규 아이디 추천   |  1   | https://programmers.co.kr/learn/courses/30/lessons/72410 |   
-|   메뉴 리뉴얼   |  2   | https://programmers.co.kr/learn/courses/30/lessons/72411 |     
-|  순위 검색     |  2   | https://programmers.co.kr/learn/courses/30/lessons/72412 |   
-| 합승 택시 요금 |  3   | https://programmers.co.kr/learn/courses/30/lessons/72413 |    
-|   광고 삽입   |  3   | https://programmers.co.kr/learn/courses/30/lessons/72414 |  
-| 카드 짝 맞추기  |  3   | https://programmers.co.kr/learn/courses/30/lessons/72415 |  
-|   매출 하락 최소화    |  4   | https://programmers.co.kr/learn/courses/30/lessons/72416 |    
-
-------
-</details>
-
-
-<details markdown="1">
-<summary><strong>📄 2020 KAKAO BLIND RECRUITMENT (프로그래머스)</summary></strong>
-
-|      문제      | 레벨 |                           URL                            | 
-| :------------: | :--: | :------------------------------------------------------: |
-|  문자열 압축   |  2   | https://programmers.co.kr/learn/courses/30/lessons/60057 |   
-|   괄호 변환    |  2   | https://programmers.co.kr/learn/courses/30/lessons/60058 |     
-| 자물쇠와 열쇠  |  3   | https://programmers.co.kr/learn/courses/30/lessons/60059 |   
-| 기둥과 보 설치 |  3   | https://programmers.co.kr/learn/courses/30/lessons/60061 |    
-|   외벽 점검    |  3   | https://programmers.co.kr/learn/courses/30/lessons/60062 |  
-| 블록 이동하기  |  3   | https://programmers.co.kr/learn/courses/30/lessons/60063 |  
-|   가사 검색    |  4   | https://programmers.co.kr/learn/courses/30/lessons/60060 |    
 
 ------
 </details>
